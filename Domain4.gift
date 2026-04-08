@@ -1,0 +1,701 @@
+$CATEGORY: CISA/Domain4/Full
+
+::D4_Q1:: Manakah antara berikut merupakan objektif utama pengurusan operasi IT? {
+ =Memastikan perkhidmatan IT dihantar secara cekap dan berkesan mengikut keperluan perniagaan. #Tepat.
+ ~Menulis kod sumber untuk aplikasi baru.
+ ~Mengurangkan bilangan pekerja di jabatan IT.
+ ~Membeli perkakasan paling mahal setiap tahun.
+}
+
+::D4_Q2:: "Recovery Time Objective" (RTO) ditakrifkan sebagai? {
+ =Masa maksimum yang dibenarkan untuk memulihkan proses perniagaan selepas gangguan. #Tepat.
+ ~Jumlah data yang boleh hilang tanpa menjejaskan organisasi.
+ ~Masa yang diperlukan untuk melakukan sandaran harian.
+ ~Kelajuan pemprosesan data semasa waktu puncak.
+}
+
+::D4_Q3:: "Recovery Point Objective" (RPO) berkaitan dengan? {
+ =Tahap kehilangan data yang boleh diterima diukur dalam masa. #Tepat.
+ ~Masa untuk membaiki server yang rosak.
+ ~Bilangan kakitangan yang diperlukan di tapak bencana.
+ ~Kos pemulihan sistem aplikasi.
+}
+
+::D4_Q4:: Apakah langkah pertama dalam membangunkan Pelan Kesinambungan Perniagaan (BCP)? {
+ =Melakukan Analisis Impak Perniagaan (BIA). #Tepat.
+ ~Memilih tapak alternatif (hot site).
+ ~Melakukan ujian simulasi kebakaran.
+ ~Membeli insurans liabiliti.
+}
+
+::D4_Q5:: Tapak pemulihan bencana yang mempunyai bekalan elektrik dan rangkaian tetapi tiada peralatan komputer dipanggil? {
+ =Cold Site #Tepat.
+ ~Warm Site
+ ~Hot Site
+ ~Mirror Site
+}
+
+::D4_Q6:: Manakah antara berikut merupakan kelebihan utama "Hot Site"? {
+ =Masa pemulihan yang sangat pantas (hampir serta-merta). #Tepat.
+ ~Kos langganan yang paling murah.
+ ~Ia tidak memerlukan sebarang ujian berkala.
+ ~Ia terletak di dalam pejabat yang sama dengan sistem utama.
+}
+
+::D4_Q7:: "Lights-out Operation" merujuk kepada? {
+ =Operasi pusat data yang berjalan secara automatik tanpa kehadiran kakitangan secara fizikal. #Tepat.
+ ~Menutup semua lampu untuk menjimatkan elektrik.
+ ~Sistem yang tidak berfungsi kerana kegagalan kuasa.
+ ~Pejabat yang ditutup semasa cuti umum.
+}
+
+::D4_Q8:: Apakah tujuan utama "Incident Management"? {
+ =Memulihkan perkhidmatan normal secepat mungkin bagi meminimumkan impak perniagaan. #Tepat.
+ ~Mencari punca akar (root cause) masalah.
+ ~Menghukum pengguna yang melakukan kesilapan.
+ ~Menulis dokumentasi pembangunan sistem.
+ }
+
+::D4_Q9:: "Problem Management" berbeza dengan "Incident Management" kerana ia fokus kepada? {
+ =Mengenalpasti dan menghapuskan punca akar gangguan yang berulang. #Tepat.
+ ~Menjawab panggilan telefon pelanggan.
+ ~Memasang perisian antivirus.
+ ~Menukar kata laluan pengguna.
+}
+
+::D4_Q10:: Manakah antara berikut merupakan kawalan alam sekitar yang paling penting di pusat data? {
+ =Sistem pencegahan kebakaran dan kawalan kelembapan. #Tepat.
+ ~Warna dinding yang menenangkan.
+ ~Pintu kayu yang tebal.
+ ~Tingkap yang luas untuk cahaya matahari.
+}
+
+::D4_Q11:: "Uninterruptible Power Supply" (UPS) digunakan untuk? {
+ =Menyediakan kuasa sementara semasa kegagalan bekalan elektrik utama. #Tepat.
+ ~Meningkatkan kelajuan CPU.
+ ~Menyimpan data pangkalan data.
+ ~Menghalang serangan penggodam.
+}
+
+::D4_Q12:: Apakah risiko utama ketiadaan label pada kabel rangkaian? {
+ =Kesukaran dan kelewatan semasa kerja-kerja penyelenggaraan atau pemecahan masalah. #Tepat.
+ ~Kabel akan mudah putus.
+ ~Internet akan menjadi perlahan.
+ ~Elektrik akan bocor.
+}
+
+::D4_Q13:: "Service Level Agreement" (SLA) adalah kontrak antara? {
+ =Penyedia perkhidmatan dan pelanggan mengenai tahap prestasi perkhidmatan. #Tepat.
+ ~Dua orang pekerja di jabatan yang sama.
+ ~Syarikat dan pihak polis.
+ ~Pihak pengurusan dan pemegang saham.
+}
+
+::D4_Q14:: "Mean Time Between Failures" (MTBF) mengukur? {
+ =Kebolehpercayaan (reliability) sesuatu komponen perkakasan. #Tepat.
+ ~Masa yang diambil untuk membaiki kerosakan.
+ ~Jumlah data yang diproses sesaat.
+ ~Bilangan ralat dalam satu baris kod.
+}
+
+::D4_Q15:: "Mean Time To Repair" (MTTR) mengukur? {
+ =Purata masa yang diambil untuk memulihkan sistem selepas kerosakan. #Tepat.
+ ~Masa antara dua kerosakan berturut-turut.
+ ~Kelajuan muat turun perisian.
+ ~Jangka hayat bateri laptop.
+}
+
+::D4_Q16:: Apakah fungsi "Job Scheduling" dalam operasi IT? {
+ =Mengatur dan menjalankan tugasan pemprosesan data secara automatik mengikut urutan. #Tepat.
+ ~Mencari kerja baru untuk pengaturcara.
+ ~Menentukan masa rehat pekerja pusat data.
+ ~Menyusun temu janji dengan vendor.
+}
+
+::D4_Q17:: "Backup Strategy" yang menyalin semua fail yang berubah sejak sandaran penuh terakhir dipanggil? {
+ =Differential Backup #Tepat.
+ ~Incremental Backup
+ ~Full Backup
+ ~Mirror Backup
+}
+
+::D4_Q18:: "Incremental Backup" menyalin fail yang berubah sejak? {
+ =Sandaran terakhir (sama ada penuh atau inkremental). #Tepat.
+ ~Satu tahun yang lalu.
+ ~Sejak sistem mula dibeli.
+ ~Hanya fail yang bersaiz besar.
+}
+
+::D4_Q19:: Manakah antara berikut merupakan risiko terbesar menyimpan kaset sandaran (backup tapes) di lokasi yang sama dengan pusat data? {
+ =Bencana fizikal seperti kebakaran boleh memusnahkan kedua-dua data asal dan sandaran. #Tepat.
+ ~Kaset sandaran akan mudah berhabuk.
+ ~Pekerja akan terlanggar kaset tersebut.
+ ~Kaset akan hilang kerana dicuri rakan sekerja.
+}
+
+::D4_Q20:: "Offsite Storage" haruslah? {
+ =Mempunyai tahap keselamatan dan perlindungan yang setara dengan pusat data utama. #Tepat.
+ ~Terletak di rumah ketua pegawai maklumat (CIO).
+ ~Sentiasa terbuka untuk orang awam.
+ ~Terletak di negara yang berbeza tanpa mengira undang-undang data.
+}
+
+::D4_Q21:: Apakah tujuan utama ujian "Tabletop" dalam BCP? {
+ =Mengesahkan peranan dan tanggungjawab melalui perbincangan senario bencana. #Tepat.
+ ~Memindahkan semua server ke lokasi lain secara fizikal.
+ ~Menutup pejabat selama seminggu.
+ ~Menguji kekuatan meja di pejabat.
+}
+
+::D4_Q22:: Ujian BCP yang melibatkan pemindahan operasi sebenar ke tapak alternatif dipanggil? {
+ =Full Interruption Test #Tepat.
+ ~Simulation Test
+ ~Walkthrough Test
+ ~Checklist Test
+}
+
+::D4_Q23:: Manakah antara berikut merupakan tanggungjawab "Capacity Management"? {
+ =Memastikan sumber IT mencukupi untuk memenuhi permintaan semasa dan masa depan. #Tepat.
+ ~Menghantar e-mel promosi.
+ ~Membasuh lantai pusat data.
+ ~Menukar tonner pencetak.
+}
+
+::D4_Q24:: "Patch Management" adalah penting untuk? {
+ =Mengurangkan kerentanan sistem terhadap serangan siber. #Tepat.
+ ~Menambah ciri-ciri permainan dalam aplikasi.
+ ~Meningkatkan penggunaan memori RAM.
+ ~Menukar warna latar belakang sistem operasi.
+}
+
+::D4_Q25:: Apakah fungsi "Change Management" dalam operasi? {
+ =Memastikan perubahan sistem dilakukan secara terkawal bagi mengelakkan gangguan perkhidmatan. #Tepat.
+ ~Memastikan semua pekerja menukar pakaian setiap hari.
+ ~Mengubah harga saham syarikat.
+ ~Menukar vendor setiap bulan.
+}
+
+::D4_Q26:: "Configuration Management Database" (CMDB) menyimpan maklumat tentang? {
+ =Aset IT (CI) dan hubungan antara mereka. #Tepat.
+ ~Gaji bulanan semua kakitangan.
+ ~Senarai pelanggan yang belum membayar hutang.
+ ~Resipi makanan di kafeteria.
+}
+
+::D4_Q27:: "Media Sanitization" diperlukan sebelum pelupusan storan untuk? {
+ =Mencegah pemulihan data sulit oleh pihak yang tidak berkuasa. #Tepat.
+ ~Menjadikan pemacu keras nampak baru.
+ ~Mengurangkan berat bahan buangan.
+ ~Memenuhi ruang di tong sampah.
+}
+
+::D4_Q28:: Manakah yang merupakan kawalan pencegahan kebakaran yang paling sesuai untuk peralatan elektronik? {
+ =Sistem gas (seperti FM-200 atau Novec). #Tepat.
+ ~Semburan air (sprinkler) biasa.
+ ~Pasir di dalam baldi.
+ ~Selimut tebal.
+}
+
+::D4_Q29:: "Redundant Array of Independent Disks" (RAID) digunakan terutamanya untuk? {
+ =Meningkatkan ketersediaan data dan toleransi kegagalan cakera. #Tepat.
+ ~Mengurangkan penggunaan elektrik.
+ ~Menghapuskan keperluan untuk sandaran data.
+ ~Mempercepatkan kelajuan internet.
+}
+
+::D4_Q30:: Apakah kegunaan "Honey Pot" dalam operasi keselamatan? {
+ =Menarik perhatian penyerang ke sistem umpan untuk mengkaji teknik mereka. #Tepat.
+ ~Menyimpan madu untuk pekerja.
+ ~Meningkatkan kelajuan pangkalan data.
+ ~Menapis spam e-mel secara automatik.
+}
+
+::D4_Q31:: "Business Impact Analysis" (BIA) menentukan impak gangguan berdasarkan? {
+ =Masa dan kerugian kewangan atau reputasi. #Tepat.
+ ~Warna logo syarikat.
+ ~Bilangan komputer yang rosak sahaja.
+ ~Pendapat peribadi kakitangan junior.
+}
+
+::D4_Q32:: "Mutual Aid Agreement" dalam BRP adalah? {
+ =Perjanjian antara dua organisasi untuk saling membantu sekiranya berlaku bencana. #Tepat.
+ ~Kontrak untuk membeli komputer bersama.
+ ~Perjanjian untuk berkongsi pekerja setiap hari.
+ ~Kontrak insurans dengan bank.
+}
+
+::D4_Q33:: Apakah risiko terbesar ketiadaan "Inventory Management" bagi aset IT? {
+ =Kegagalan untuk mengesan kehilangan aset atau perisian yang tidak dilesenkan. #Tepat.
+ ~Komputer akan menjadi berkarat.
+ ~Pekerja akan lupa lokasi pejabat.
+ ~Monitor akan menjadi malap.
+}
+
+::D4_Q34:: "Quality of Service" (QoS) dalam rangkaian bertujuan untuk? {
+ =Memberi keutamaan kepada trafik data yang kritikal (seperti suara atau video). #Tepat.
+ ~Menghalang semua orang daripada menggunakan internet.
+ ~Meningkatkan bil telefon bulanan.
+ ~Menukarkan semua kabel kepada tembaga.
+}
+
+::D4_Q35:: "System Monitoring Tools" harus digunakan untuk? {
+ =Mengenalpasti masalah prestasi sebelum ia menjejaskan pengguna. #Tepat.
+ ~Membaca e-mel peribadi pekerja.
+ ~Menonton filem di server.
+ ~Mengira jumlah langkah juruteknik.
+}
+
+::D4_Q36:: Apakah tujuan "Post-Mortem" selepas pemulihan insiden besar? {
+ =Mengenalpasti punca kegagalan dan meningkatkan proses respons masa hadapan. #Tepat.
+ ~Menyalahkan orang yang melakukan kesilapan pertama.
+ ~Menutup jabatan IT secara kekal.
+ ~Membayar bonus kepada semua orang.
+}
+
+::D4_Q37:: "Database Administrator" (DBA) bertanggungjawab untuk? {
+ =Integriti, keselamatan, dan prestasi pangkalan data. #Tepat.
+ ~Menulis surat khabar syarikat.
+ ~Memasang sistem penghawa dingin.
+ ~Menyusun fail di rak pejabat.
+}
+
+::D4_Q38:: "Server Virtualization" membolehkan? {
+ =Menjalankan berbilang sistem operasi pada satu perkakasan fizikal. #Tepat.
+ ~Menukar server fizikal menjadi lukisan digital.
+ ~Menghapuskan keperluan untuk bekalan elektrik.
+ ~Mengurangkan saiz skrin monitor.
+}
+
+::D4_Q39:: Apakah risiko "Privileged User Accounts"? {
+ =Akses tanpa had yang boleh disalahgunakan untuk memintas kawalan keselamatan. #Tepat.
+ ~Gaji yang terlalu tinggi bagi pemilik akaun.
+ ~Akaun tersebut akan tamat tempoh setiap jam.
+ ~Pemilik akaun akan sering terlupa kata laluan.
+}
+
+::D4_Q40:: "Log Management" yang baik memerlukan? {
+ =Penyimpanan log di server berasingan dan dilindungi daripada pindaan. #Tepat.
+ ~Pemadaman log setiap hari untuk jimat ruang.
+ ~Akses terbuka kepada semua pekerja untuk membaca log.
+ ~Log ditulis secara manual di dalam buku nota.
+}
+
+::D4_Q41:: "Cold Site" biasanya memerlukan masa pemulihan selama? {
+ =Beberapa hari hingga seminggu (paling lama). #Tepat.
+ ~Beberapa saat.
+ ~Dua jam sahaja.
+ ~Satu minit.
+}
+
+::D4_Q42:: "Hot Site" biasanya memerlukan masa pemulihan selama? {
+ =Beberapa minit hingga beberapa jam. #Tepat.
+ ~Satu bulan.
+ ~Satu tahun.
+ ~Hanya pada waktu malam.
+}
+
+::D4_Q43:: Apakah kegunaan "Dual Power Supply" pada server? {
+ =Memastikan server terus berjalan jika salah satu punca kuasa gagal. #Tepat.
+ ~Menjadikan server dua kali lebih laju.
+ ~Mengurangkan bil elektrik sebanyak separuh.
+ ~Membolehkan server digunakan sebagai pemanas bilik.
+}
+
+::D4_Q44:: "IT Infrastructure Library" (ITIL) adalah? {
+ =Kerangka kerja amalan terbaik untuk pengurusan perkhidmatan IT (ITSM). #Tepat.
+ ~Perpustakaan fizikal yang menyimpan buku komputer.
+ ~Satu jenis sistem operasi server.
+ ~Jenama komputer riba.
+}
+
+::D4_Q45:: "Release Management" fokus kepada? {
+ =Perancangan dan pengujian pemindahan perubahan ke persekitaran produksi. #Tepat.
+ ~Melepaskan pekerja yang sudah tamat kontrak.
+ ~Menjual produk lama di pasaran terbuka.
+ ~Menerbitkan berita di laman web.
+}
+
+::D4_Q46:: Apakah risiko utama ketiadaan "Documentation" bagi operasi pusat data? {
+ =Kelewatan pemulihan jika kakitangan utama tidak hadir semasa kecemasan. #Tepat.
+ ~Pusat data akan menjadi kotor.
+ ~Suhu bilik akan meningkat secara tiba-tiba.
+ ~Tiada risiko langsung.
+}
+
+::D4_Q47:: "Water Sensors" di pusat data harus diletakkan di? {
+ =Di bawah lantai tinggi (raised floor) berhampiran unit pendingin. #Tepat.
+ ~Di atas bumbung bangunan sahaja.
+ ~Di dalam pasu bunga pejabat.
+ ~Di atas meja ketua IT.
+}
+
+::D4_Q48:: "Physical Access Logs" membantu dalam? {
+ =Menjejaki siapa yang masuk dan keluar dari kawasan sensitif seperti bilik server. #Tepat.
+ ~Mengira jumlah kalori pekerja.
+ ~Menentukan siapa yang paling kacak di pejabat.
+ ~Mengawal kelajuan lif.
+}
+
+::D4_Q49:: Apakah fungsi "Emergency Power Off" (EPO)? {
+ =Memutuskan semua kuasa elektrik dengan segera semasa kecemasan (seperti kebakaran). #Tepat.
+ ~Mematikan komputer setiap kali waktu rehat.
+ ~Menjimatkan elektrik pada waktu malam.
+ ~Meningkatkan voltan elektrik secara tiba-tiba.
+}
+
+::D4_Q50:: "Data Center Tier IV" menjamin ketersediaan sebanyak? {
+ =99.995% (paling tinggi). #Tepat.
+ ~50%.
+ ~0.1%.
+ ~10%.
+}
+
+::D4_Q51:: "Asset Lifecycle" dalam IT bermula dari? {
+ =Perancangan dan perolehan sehingga pelupusan. #Tepat.
+ ~Mula digunakan sehingga rosak.
+ ~Dikeluarkan dari kotak sehingga dibuang.
+ ~Hanya semasa tempoh waranti.
+}
+
+::D4_Q52:: "Remote Access Audit" harus fokus kepada? {
+ =Penggunaan enkripsi yang kuat dan pengesahan pelbagai faktor (MFA). #Tepat.
+ ~Warna komputer yang digunakan di rumah.
+ ~Jenama pembekal internet pekerja.
+ ~Bilangan anak ahli keluarga pekerja.
+}
+
+::D4_Q53:: Apakah risiko ketiadaan "Capacity Planning" bagi rangkaian? {
+ =Kesesakan trafik data yang menyebabkan kelembapan sistem aplikasi. #Tepat.
+ ~Kabel rangkaian akan menjadi panas dan cair.
+ ~Router akan meletup.
+ ~Tiada risiko langsung.
+}
+
+::D4_Q54:: "Service Catalog" mengandungi? {
+ =Senarai semua perkhidmatan IT yang tersedia untuk pengguna perniagaan. #Tepat.
+ ~Senarai harga barang runcit.
+ ~Biodata semua pekerja IT.
+ ~Manual pembaikan kereta syarikat.
+}
+
+::D4_Q55:: "Availability Management" bertujuan untuk? {
+ =Memastikan perkhidmatan IT tersedia apabila pengguna memerlukannya. #Tepat.
+ ~Memastikan semua orang mempunyai kerusi di pejabat.
+ ~Memastikan pejabat sentiasa dibuka 24 jam.
+ ~Memastikan stor mempunyai cukup kertas.
+}
+
+::D4_Q56:: Apakah langkah pertama apabila insiden keselamatan dikesan? {
+ =Penyekatan (Containment) untuk menghalang kerosakan daripada merebak. #Tepat.
+ ~Menghubungi pihak media.
+ ~Memadam semua data di dalam server.
+ ~Memecat pentadbir sistem.
+}
+
+::D4_Q57:: "Disaster Recovery Testing" harus dilakukan sekurang-kurangnya? {
+ =Setahun sekali atau apabila terdapat perubahan besar dalam infrastruktur. #Tepat.
+ ~Setiap sepuluh tahun.
+ ~Hanya selepas bencana berlaku.
+ ~Hanya jika diarahkan oleh pihak polis.
+}
+
+::D4_Q58:: "Alternate Processing Facility" diperlukan apabila? {
+ =Pusat data utama tidak boleh digunakan untuk tempoh yang lama. #Tepat.
+ ~Ketua IT ingin bekerja di lokasi baru.
+ ~Syarikat ingin menjimatkan kos sewa.
+ ~Pekerja ingin suasana baru.
+}
+
+::D4_Q59:: "Warm Site" biasanya sudah mempunyai? {
+ =Perkakasan komputer tetapi data perlu dipulihkan dari sandaran. #Tepat.
+ ~Hanya meja dan kerusi kosong.
+ ~Data yang sentiasa dikemaskini secara masa nyata (real-time).
+ ~Tiada bekalan elektrik.
+}
+
+::D4_Q60:: Manakah antara berikut merupakan petanda pengurusan masalah yang baik? {
+ =Bilangan insiden berulang semakin berkurangan. #Tepat.
+ ~Bilangan panggilan telefon semakin meningkat.
+ ~Pekerja IT sentiasa sibuk membaiki perkara yang sama.
+ ~Tiada log insiden disimpan.
+}
+
+::D4_Q61:: "Infrastructure as a Service" (IaaS) membolehkan organisasi? {
+ =Menyewa sumber pengkomputeran virtual (server, storan) daripada pihak ketiga. #Tepat.
+ ~Membeli bangunan pejabat melalui internet.
+ ~Mendapat perisian percuma selamanya.
+ ~Menghapuskan keperluan untuk pekerja IT.
+}
+
+::D4_Q62:: "Software as a Service" (SaaS) bermaksud? {
+ =Aplikasi dihoskan oleh penyedia dan diakses melalui pelayar web. #Tepat.
+ ~Pekerja menulis perisian di rumah.
+ ~Perisian dihantar melalui pos dalam bentuk CD.
+ ~Aplikasi yang tidak memerlukan lesen.
+}
+
+::D4_Q63:: Apakah risiko utama "Cloud Computing"? {
+ =Kurangnya kawalan langsung ke atas data dan pergantungan kepada penyedia. #Tepat.
+ ~Hujan akan merosakkan data di awan.
+ ~Data akan terbang hilang ditiup angin.
+ ~Tiada risiko langsung.
+}
+
+::D4_Q64:: "Business Continuity" lebih luas daripada "Disaster Recovery" kerana ia merangkumi? {
+ =Seluruh proses perniagaan, bukan hanya sistem IT. #Tepat.
+ ~Hanya pembaikan komputer yang rosak.
+ ~Hanya pembelian perabot baru.
+ ~Hanya pembayaran gaji.
+}
+
+::D4_Q65:: "Digital Forensics" dilakukan untuk? {
+ =Mengumpul dan memelihara bukti elektronik bagi tujuan penyiasatan atau undang-undang. #Tepat.
+ ~Membaiki komputer yang telah lama rosak.
+ ~Menambah kelajuan pemprosesan video.
+ ~Menghias laman web syarikat.
+}
+
+::D4_Q66:: "Chain of Custody" dalam forensik digital memastikan? {
+ =Bukti tidak diusik dan sejarah pengendaliannya didokumentasikan dengan jelas. #Tepat.
+ ~Bukti disimpan di dalam rantaian besi.
+ ~Pihak polis sentiasa memegang bukti tersebut.
+ ~Bukti boleh dilihat oleh sesiapa sahaja.
+}
+
+::D4_Q67:: Apakah fungsi "Network Monitoring"? {
+ =Mengesan gangguan atau kelembapan dalam aliran trafik rangkaian. #Tepat.
+ ~Mendengar perbualan telefon pekerja.
+ ~Menambah bilangan kabel di bawah meja.
+ ~Mengira jumlah habuk pada router.
+}
+
+::D4_Q68:: "Load Balancer" digunakan untuk? {
+ =Mengagihkan trafik rangkaian secara samarata ke beberapa server. #Tepat.
+ ~Mengimbangi berat server di atas rak.
+ ~Menentukan gaji pekerja yang adil.
+ ~Menghalang kilat daripada menyambar bangunan.
+}
+
+::D4_Q69:: Apakah risiko ketiadaan "Air Conditioning" yang mencukupi di bilik server? {
+ =Peralatan akan menjadi terlalu panas (overheating) dan gagal berfungsi. #Tepat.
+ ~Pekerja akan merasa sejuk dan memakai jaket.
+ ~Server akan menjadi berhabuk.
+ ~Tiada risiko langsung.
+}
+
+::D4_Q70:: "Physical Security Perimeter" termasuk? {
+ =Pagar, dinding, dan pintu masuk berkunci. #Tepat.
+ ~Sistem operasi komputer.
+ ~Enkripsi data e-mel.
+ ~Kata laluan yang panjang.
+}
+
+::D4_Q71:: "Operational Audit" bagi operasi IT menilai? {
+ =Kecekapan penggunaan sumber dan keberkesanan proses harian. #Tepat.
+ ~Hanya ketepatan penyata kewangan.
+ ~Warna pakaian seragam juruteknik.
+ ~Kualiti kopi di mesin minuman.
+}
+
+::D4_Q72:: "Environmental Audit" di pusat data memeriksa? {
+ =Sistem bekalan kuasa, pendingin, dan pengesanan kebakaran. #Tepat.
+ ~Jumlah pokok yang ditanam di luar bangunan.
+ ~Kualiti udara di taman bunga syarikat.
+ ~Bilangan burung yang terbang di atas bangunan.
+}
+
+::D4_Q73:: "Escalation Procedure" dalam pengurusan insiden menentukan? {
+ =Bila dan kepada siapa insiden perlu dilaporkan jika ia tidak selesai. #Tepat.
+ ~Cara menggunakan tangga semasa kecemasan.
+ ~Bila masa untuk menaikkan harga produk.
+ ~Cara memohon kenaikan pangkat.
+}
+
+::D4_Q74:: "Critical Business Functions" (CBF) dikenal pasti semasa? {
+ =Analisis Impak Perniagaan (BIA). #Tepat.
+ ~Mesyuarat tahunan pemegang saham.
+ ~Temubual pengambilan pekerja baru.
+ ~Pelancaran produk baru.
+}
+
+::D4_Q75:: "Redundancy" dalam infrastruktur IT bermaksud? {
+ =Mempunyai komponen tambahan untuk mengelakkan kegagalan titik tunggal (SPOF). #Tepat.
+ ~Mempunyai terlalu banyak pekerja yang tidak buat kerja.
+ ~Menyimpan fail yang sama sebanyak seribu kali.
+ ~Membeli peralatan yang tidak diperlukan.
+}
+
+::D4_Q76:: "Single Point of Failure" (SPOF) adalah? {
+ =Komponen tunggal yang jika gagal akan menyebabkan keseluruhan sistem terhenti. #Tepat.
+ ~Kegagalan seorang pekerja untuk hadir kerja.
+ ~Satu lubang kecil pada kabel.
+ ~Satu butang yang tidak berfungsi pada tetikus.
+}
+
+::D4_Q77:: "Standard Operating Procedures" (SOP) bagi pusat data memastikan? {
+ =Tugasan kritikal dijalankan secara konsisten oleh sesiapa sahaja yang bertugas. #Tepat.
+ ~Pekerja boleh melakukan kerja mengikut kreativiti sendiri.
+ ~Tiada dokumentasi diperlukan untuk kerja harian.
+ ~Gaji pekerja dibayar tepat pada masanya.
+ }
+
+::D4_Q78:: "Physical Security Barrier" seperti "Man-trap" bertujuan untuk? {
+ =Mencegah pencerobohan dan "tailgating" dengan membenarkan hanya seorang masuk pada satu masa. #Tepat.
+ ~Menangkap tikus yang masuk ke bilik server.
+ ~Memerangkap pencuri di dalam bilik selama-lamanya.
+ ~Menentukan siapa yang paling berat di pejabat.
+}
+
+::D4_Q79:: "Asset Labeling" membantu dalam? {
+ =Mengenalpasti pemilik aset dan tahap klasifikasi keselamatannya secara fizikal. #Tepat.
+ ~Mencantikkan rupa komputer.
+ ~Memudahkan proses menjual komputer lama.
+ ~Mengurangkan habuk pada monitor.
+}
+
+::D4_Q80:: "Preventive Maintenance" dilakukan untuk? {
+ =Mengurangkan kemungkinan kerosakan perkakasan melalui pemeriksaan berkala. #Tepat.
+ ~Membaiki komputer yang telah meletup.
+ ~Menghukum juruteknik yang malas.
+ ~Mengira jumlah ralat dalam sistem aplikasi.
+}
+
+::D4_Q81:: "Corrective Maintenance" dilakukan untuk? {
+ =Memulihkan fungsi perkakasan yang telah mengalami kerosakan. #Tepat.
+ ~Menghalang kerosakan daripada berlaku di masa hadapan.
+ ~Meningkatkan kelajuan sistem secara drastik.
+ ~Mencuci habuk pada kipas server sahaja.
+}
+
+::D4_Q82:: "Inventory Audit" memastikan? {
+ =Aset fizikal yang ada sepadan dengan rekod dalam buku inventori. #Tepat.
+ ~Semua aset adalah berjenama sama.
+ ~Tiada habuk pada aset syarikat.
+ ~Aset disimpan di dalam bilik yang gelap.
+}
+
+::D4_Q83:: "Service Desk Metrik" seperti "First Call Resolution" (FCR) mengukur? {
+ =Kecekapan dalam menyelesaikan masalah pengguna pada hubungan pertama. #Tepat.
+ ~Berapa lama pelanggan menunggu talian diangkat.
+ ~Bilangan pekerja yang berhenti kerja.
+ ~Jumlah bayaran bil telefon bulanan.
+}
+
+::D4_Q84:: "Change Window" adalah? {
+ =Waktu yang ditetapkan untuk melaksanakan perubahan sistem bagi meminimumkan gangguan. #Tepat.
+ ~Tingkap fizikal di pejabat IT.
+ ~Masa untuk menukar langsir pejabat.
+ ~Waktu rehat tengah hari bagi pasukan IT.
+}
+
+::D4_Q85:: "Emergency Change" memerlukan? {
+ =Kelulusan segera dan dokumentasi selepas pelaksanaan untuk menangani krisis. #Tepat.
+ ~Kelulusan daripada semua pemegang saham syarikat.
+ ~Tiada kelulusan diperlukan sama sekali.
+ ~Menunggu mesyuarat bulanan akan datang.
+}
+
+::D4_Q86:: "IT Outsourcing Risk" termasuk? {
+ =Kehilangan kawalan ke atas data dan kualiti perkhidmatan vendor. #Tepat.
+ ~Vendor menjadi terlalu kaya.
+ ~Pekerja vendor akan bekerja di pejabat syarikat.
+ ~Tiada risiko langsung.
+}
+
+::D4_Q87:: "Mirror Site" adalah? {
+ =Pusat data yang mempunyai data masa nyata yang sama dengan pusat data utama. #Tepat.
+ ~Bilik yang penuh dengan cermin untuk kecantikan.
+ ~Laman web yang memaparkan imej juruaudit.
+ ~Sistem yang hanya berfungsi sebagai sandaran manual.
+}
+
+::D4_Q88:: "Gap Analysis" dalam BCP bertujuan untuk? {
+ =Mengenalpasti perbezaan antara kemampuan pemulihan semasa dan keperluan perniagaan. #Tepat.
+ ~Mengira jarak antara dua tapak pemulihan.
+ ~Menentukan jurang gaji antara pekerja IT.
+ ~Mencari lubang pada dinding pusat data.
+}
+
+::D4_Q89:: "Offsite Backup Storage" tidak harus berada di kawasan? {
+ =Kawasan yang mempunyai risiko bencana geografi yang sama dengan tapak utama (contoh: zon banjir yang sama). #Tepat.
+ ~Kawasan yang mempunyai banyak restoran.
+ ~Kawasan yang mempunyai pusat beli-belah.
+ ~Kawasan yang mempunyai banyak pokok bunga.
+}
+
+::D4_Q90:: "Backup Rotation Scheme" (seperti GFS) bertujuan untuk? {
+ =Menguruskan kitaran kaset sandaran untuk memastikan sejarah data terpelihara. #Tepat.
+ ~Memutar kaset sandaran supaya tidak berhabuk.
+ ~Menukar pemandu lori yang membawa kaset.
+ ~Menyusun kaset mengikut warna pelangi.
+}
+
+::D4_Q91:: "System Availability" diukur dalam? {
+ =Peratusan masa sistem berfungsi dalam tempoh setahun (contoh: 99.9%). #Tepat.
+ ~Jumlah berat server dalam kilogram.
+ ~Bilangan butang yang ada pada papan kekunci.
+ ~Saiz fizikal pusat data.
+}
+
+::D4_Q92:: "Performance Tuning" pangkalan data bertujuan untuk? {
+ =Meningkatkan kelajuan capaian data dan mengurangkan penggunaan sumber. #Tepat.
+ ~Menukar nama pangkalan data setiap hari.
+ ~Menambah bilangan pengurus pangkalan data.
+ ~Memadam semua data lama untuk jimat ruang.
+}
+
+::D4_Q93:: "Hardware Lifecycle" biasanya merangkumi tempoh? {
+ =3 hingga 5 tahun sebelum ia perlu diganti atau dinaik taraf. #Tepat.
+ ~100 tahun.
+ ~Satu bulan sahaja.
+ ~Sehingga ia meletup terbakar.
+}
+
+::D4_Q94:: "Remote Monitoring and Management" (RMM) membolehkan juruteknik? {
+ =Mengurus dan membaiki sistem dari lokasi jauh. #Tepat.
+ ~Menonton televisyen sambil bekerja.
+ ~Memandu kereta ke pusat data setiap jam.
+ ~Membeli peralatan IT secara dalam talian sahaja.
+}
+
+::D4_Q95:: "Incident Escalation Matrix" menentukan? {
+ =Peringkat pengurusan yang perlu dimaklumkan berdasarkan tahap kritikaliti insiden. #Tepat.
+ ~Jenis makanan yang perlu dipesan semasa mesyuarat insiden.
+ ~Nama-nama pengawal keselamatan yang bertugas.
+ ~Lokasi kotak kecemasan di pejabat.
+}
+
+::D4_Q96:: "Recovery Strategy" harus dipilih berdasarkan? {
+ =Keperluan RTO, RPO, dan kos pemulihan. #Tepat.
+ ~Warna kegemaran ketua pegawai maklumat.
+ ~Jenama komputer yang paling popular.
+ ~Lokasi yang paling dekat dengan lapangan terbang.
+}
+
+::D4_Q97:: "Criticality Classification" bagi aplikasi membantu dalam? {
+ =Menentukan urutan pemulihan sistem selepas bencana. #Tepat.
+ ~Menentukan siapa yang mendapat komputer baru dahulu.
+ ~Mengira jumlah lesen perisian yang perlu dibayar.
+ ~Menyusun fail dalam folder komputer.
+}
+
+::D4_Q98:: "Succession Planning" dalam operasi IT memastikan? {
+ =Kesinambungan pengurusan jika kakitangan kunci tidak lagi bersama organisasi. #Tepat.
+ ~Pekerja mendapat gaji yang sama setiap bulan.
+ ~Semua orang tahu cara menggunakan mesin kopi.
+ ~Pelan percutian tahunan yang adil.
+}
+
+::D4_Q99:: "Physical Environmental Controls" harus diaudit untuk memastikan? {
+ =Pusat data dilindungi daripada bahaya fizikal dan gangguan bekalan. #Tepat.
+ ~Pekerja memakai pakaian yang sesuai dengan cuaca.
+ ~Terdapat cukup tingkap untuk udara segar.
+ ~Warna dinding adalah mengikut trend terkini.
+}
+
+::D4_Q100:: Hasil akhir yang paling penting daripada ujian DRP ialah? {
+ =Laporan pengajaran (lessons learned) dan pelan tindakan penambahbaikan. #Tepat.
+ ~Satu sijil penyertaan untuk semua ahli.
+ ~Gambar kenang-kenangan di tapak pemulihan.
+ ~Jamuan makan besar selepas ujian tamat.
+}

@@ -1,0 +1,704 @@
+// Topik: Standard, Perancangan, dan Perlaksanaan Audit.
+
+$CATEGORY: CISA/Domain1
+::D1_Q1:: Manakah antara berikut merupakan dokumen yang memberikan autoriti kepada fungsi audit IS? {
+=Piagam Audit (Audit Charter) #Tepat. Piagam audit menetapkan peranan dan tanggungjawab. 
+~Pelan Audit Tahunan
+~Standard ISACA
+~Kod Etika Profesional
+}
+
+::D1_Q2:: Risiko bahawa juruaudit gagal mengesan ralat material dipanggil? {
+=Risiko Pengesanan (Detection Risk) #Tepat. 
+~Risiko Bawaan (Inherent Risk)
+~Risiko Kawalan
+~Risiko Perniagaan
+}
+
+::D1_Q3:: Ujian kepatuhan (Compliance Testing) bertujuan untuk? {
+=Menentukan sama ada kawalan dalaman beroperasi mengikut reka bentuk. #Tepat. 
+~Mengesahkan ketepatan data transaksi.
+~Mengira kerugian kewangan.
+~Menilai kecekapan perkakasan.
+}
+
+::D1_Q4:: Antara berikut, yang manakah merupakan kelebihan Audit Berasaskan Risiko? {
+=Sumber audit ditumpukan kepada kawasan yang mempunyai risiko tertinggi. #Tepat. 
+~Semua kawasan diaudit setiap tahun.
+~Ia tidak memerlukan pertimbangan profesional.
+~Ia mengurangkan keperluan untuk audit susulan.
+}
+
+::D1_Q5:: Teknik persampelan statistik yang digunakan untuk menguji kewajaran kawalan adalah? {
+=Persampelan Atribut (Attribute Sampling) #Tepat. Digunakan untuk kadar ralat. 
+~Persampelan Pembolehubah (Variable Sampling)
+~Persampelan Rawak
+~Persampelan Berstratifikasi
+}
+
+::D1_Q6:: Siapakah yang bertanggungjawab sepenuhnya ke atas Piagam Audit? {
+=Lembaga Pengarah atau Jawatankuasa Audit #Tepat. 
+~Ketua Pegawai Maklumat (CIO)
+~Pengurus Audit IS
+~Pihak Pengurusan Atasan
+}
+
+::D1_Q7:: Audit bersepadu (Integrated Auditing) menggabungkan? {
+=Audit kewangan dan audit IS. #Tepat. 
+~Audit dalaman dan audit luaran.
+~Audit teknikal dan audit fizikal.
+~Audit sistem dan audit manusia.
+}
+
+::D1_Q8:: Tujuan utama Kertas Kerja Audit (Audit Work Papers) adalah? {
+=Menyokong penemuan dan kesimpulan juruaudit. #Tepat. 
+~Memberi arahan kepada pihak pengurusan.
+~Menggantikan laporan audit.
+~Menjadi senarai semak semasa audit.
+}
+
+::D1_Q9:: "Control Self-Assessment" (CSA) memberikan tanggungjawab utama kawalan kepada? {
+=Pemilik proses perniagaan. #Tepat. 
+~Juruaudit IS.
+~Ketua Pegawai Keselamatan Maklumat (CISO).
+~Pihak Berkuasa Tempatan.
+}
+
+::D1_Q10:: Apakah langkah pertama dalam merancang audit IS? {
+=Memahami persekitaran perniagaan dan risiko. #Tepat. 
+~Menentukan bajet audit.
+~Memilih ahli pasukan audit.
+~Menulis laporan audit.
+}
+
+::D1_Q11:: Manakah antara berikut merupakan risiko yang paling berkaitan dengan kegagalan juruaudit untuk memahami proses perniagaan? {
+ =Risiko Bawaan (Inherent Risk) #Tepat. Tanpa memahami perniagaan, juruaudit tidak dapat menilai risiko asas.
+ ~Risiko Kawalan
+ ~Risiko Pengesanan
+ ~Risiko Persampelan
+}
+
+::D1_Q12:: Apakah tindakan pertama juruaudit IS jika mereka mendapati piagam audit organisasi sudah tamat tempoh? {
+ =Mengesyorkan agar piagam tersebut disemak dan diluluskan semula. #Tepat.
+ ~Meneruskan audit seperti biasa.
+ ~Menulis piagam audit yang baru bagi pihak pengurusan.
+ ~Membatalkan semua aktiviti audit.
+}
+
+::D1_Q13:: Manakah antara teknik berikut yang paling sesuai digunakan untuk menguji integriti data dalam pangkalan data yang besar? {
+ =Software Audit Berkomputer (CAATs) #Tepat. CAATs sangat efisien untuk data besar.
+ ~Pemerhatian fizikal.
+ ~Temubual dengan pentadbir pangkalan data.
+ ~Semakan manual ke atas dokumen sumber.
+}
+
+::D1_Q14:: Kemerdekaan (Independence) juruaudit IS paling terjejas jika juruaudit tersebut? {
+ =Terlibat dalam mereka bentuk kawalan sistem yang sedang diaudit. #Tepat. Ini adalah konflik kepentingan.
+ ~Melapor secara pentadbiran kepada Ketua Pegawai Kewangan (CFO).
+ ~Pernah bekerja di jabatan lain lima tahun yang lalu.
+ ~Mempunyai sijil profesional selain CISA.
+}
+
+::D1_Q15:: Apakah tujuan utama melakukan audit susulan (Follow-up Audit)? {
+ =Memastikan tindakan pembetulan telah diambil oleh pihak pengurusan. #Tepat.
+ ~Mengenalpasti kelemahan baru.
+ ~Mengurangkan kos audit tahunan.
+ ~Melatih kakitangan baru dalam pasukan audit.
+}
+
+::D1_Q16:: Antara berikut, manakah yang paling baik menggambarkan "Materiality" dalam konteks audit? {
+ =Tahap ralat yang boleh menjejaskan keputusan pengguna laporan audit. #Tepat.
+ ~Jumlah bajet yang diperuntukkan untuk audit.
+ ~Bilangan juruaudit yang terlibat dalam tugasan.
+ ~Saiz fizikal pusat data yang diaudit.
+}
+
+::D1_Q17:: Teknik "Continuous Auditing" paling sesuai digunakan dalam persekitaran yang mempunyai? {
+ =Jumlah transaksi yang tinggi dan berisiko tinggi. #Tepat.
+ ~Sistem manual yang banyak.
+ ~Bilangan pekerja yang sedikit.
+ ~Kitaran audit setiap lima tahun.
+}
+
+::D1_Q18:: Jika seorang juruaudit IS menemui penipuan (fraud) yang serius, langkah pertama yang harus diambil ialah? {
+ =Memaklumkan kepada pengurusan audit mengikut protokol organisasi. #Tepat.
+ ~Menghubungi pihak polis dengan segera.
+ ~Berdepan dengan suspek untuk mendapatkan pengakuan.
+ ~Menerbitkannya dalam buletin syarikat.
+}
+
+::D1_Q19:: Manakah yang merupakan bukti audit yang paling boleh dipercayai? {
+ =Bukti yang diperoleh terus oleh juruaudit melalui pemerhatian atau pengiraan semula. #Tepat.
+ ~Kenyataan lisan daripada pihak pengurusan.
+ ~Dokumen fotokopi yang diberikan oleh vendor.
+ ~E-mel tanpa tandatangan digital.
+}
+
+::D1_Q20:: "Control Risk" ditakrifkan sebagai risiko bahawa? {
+ =Kawalan dalaman gagal mencegah atau mengesan ralat secara tepat pada masanya. #Tepat.
+ ~Tiada kawalan wujud dalam sistem.
+ ~Juruaudit melakukan kesilapan dalam prosedur ujian.
+ ~Pihak pengurusan sengaja melanggar peraturan.
+}
+
+::D1_Q21:: Apakah kegunaan utama "Audit Universe"? {
+ =Senarai semua kawasan yang berpotensi untuk diaudit dalam sesebuah organisasi. #Tepat.
+ ~Peta lokasi fizikal pejabat audit.
+ ~Senarai semua perisian audit yang ada di pasaran.
+ ~Pangkalan data semua penemuan audit di seluruh dunia.
+}
+
+::D1_Q22:: Semasa fasa perancangan, juruaudit melakukan "Walkthrough" bertujuan untuk? {
+ =Mengesahkan pemahaman juruaudit tentang aliran proses dan kawalan. #Tepat.
+ ~Mengira inventori aset tetap.
+ ~Melatih pengguna sistem.
+ ~Menilai prestasi server.
+}
+
+::D1_Q23:: Apakah perbezaan utama antara persampelan statistik dan bukan statistik? {
+ =Persampelan statistik membolehkan pengukuran objektif risiko persampelan. #Tepat.
+ ~Persampelan bukan statistik lebih tepat.
+ ~Persampelan statistik tidak memerlukan pertimbangan profesional.
+ ~Hanya persampelan bukan statistik dibenarkan oleh ISACA.
+}
+
+::D1_Q24:: Dalam audit berasaskan risiko, jika "Inherent Risk" adalah tinggi, juruaudit harus? {
+ =Meningkatkan ujian substantif. #Tepat.
+ ~Mengurangkan skop audit.
+ ~Bergantung sepenuhnya kepada ujian kawalan.
+ ~Mengabaikan risiko pengesanan.
+}
+
+::D1_Q25:: "CSA" (Control Self-Assessment) paling berkesan apabila? {
+ =Digunakan untuk meningkatkan kesedaran kawalan di kalangan pekerja. #Tepat.
+ ~Ia menggantikan sepenuhnya audit dalaman.
+ ~Ia dilakukan hanya oleh pihak pengurusan atasan.
+ ~Ia tidak memerlukan sebarang dokumentasi.
+}
+
+::D1_Q26:: Manakah antara berikut merupakan penemuan audit (audit finding) yang paling kritikal? {
+ =Ketiadaan pelan pemulihan bencana untuk sistem kewangan utama. #Tepat.
+ ~Kakitangan tidak memakai tanda nama.
+ ~Dokumentasi prosedur tidak dikemas kini selama sebulan.
+ ~Pencetak di pejabat tidak berfungsi dengan baik.
+}
+
+::D1_Q27:: Apakah fungsi "Audit Project Management"? {
+ =Memastikan objektif audit dicapai dalam masa dan bajet yang ditetapkan. #Tepat.
+ ~Menentukan siapa yang harus dipecat.
+ ~Membeli perkakasan baru untuk jabatan IT.
+ ~Menulis kod untuk sistem pengurusan pangkalan data.
+}
+
+::D1_Q28:: Juruaudit IS mendapati kawalan akses logik adalah lemah. Apakah langkah seterusnya? {
+ =Melakukan ujian substantif untuk mencari ralat atau penyalahgunaan. #Tepat.
+ ~Menutup audit dengan segera.
+ ~Mengeluarkan laporan yang menyatakan sistem tersebut sempurna.
+ ~Meminta maaf kepada pihak pengurusan.
+}
+
+::D1_Q29:: "Working Papers" harus disimpan terutamanya untuk? {
+ =Menyediakan rekod kerja yang dilakukan untuk menyokong laporan audit. #Tepat.
+ ~Menjimatkan ruang di pejabat.
+ ~Memberi maklumat sulit kepada pesaing.
+ ~Digunakan sebagai bahan kitar semula.
+}
+
+::D1_Q30:: Siapakah yang menentukan skop audit IS? {
+ =Juruaudit IS berdasarkan penilaian risiko dan objektif audit. #Tepat.
+ ~Vendor perisian.
+ ~Kakitangan sokongan IT.
+ ~Pihak keselamatan fizikal.
+}
+
+::D1_Q31:: "Substantive Testing" digunakan untuk? {
+ =Mengesahkan integriti dan ketepatan data atau transaksi. #Tepat.
+ ~Menguji kekuatan pintu bilik server.
+ ~Menilai kehadiran pekerja.
+ ~Menyemak dasar organisasi.
+}
+
+::D1_Q32:: Antara berikut, manakah teknik yang membolehkan juruaudit memasukkan modul audit ke dalam sistem aplikasi pelanggan? {
+ =Embedded Audit Modules (EAM) #Tepat.
+ ~Pemerhatian.
+ ~Temubual.
+ ~Semakan dokumen.
+}
+
+::D1_Q33:: Semasa mesyuarat penutup (Closing Meeting), juruaudit harus? {
+ =Membincangkan penemuan dan cadangan dengan pihak pengurusan. #Tepat.
+ ~Mengenalpasti siapa yang melakukan kesalahan secara terbuka.
+ ~Meminta kenaikan gaji.
+ ~Mula menulis piagam audit baru.
+}
+
+::D1_Q34:: Jika juruaudit menggunakan persampelan atribut dan mendapati kadar ralat melebihi kadar yang dijangka, juruaudit harus? {
+ =Menilai semula keberkesanan kawalan tersebut. #Tepat.
+ ~Mengabaikan ralat tersebut.
+ ~Mengurangkan saiz sampel.
+ ~Menyalahkan sistem komputer.
+}
+
+::D1_Q35:: "Inherent Risk" adalah risiko yang wujud? {
+ =Sebelum mengambil kira sebarang kawalan yang dilaksanakan. #Tepat.
+ ~Hanya selepas audit selesai.
+ ~Kerana juruaudit tidak cekap.
+ ~Hanya dalam sistem komputer yang lama.
+ }
+
+::D1_Q36:: Apakah langkah paling penting dalam menyediakan laporan audit? {
+ =Memastikan semua penemuan disokong oleh bukti yang mencukupi dan relevan. #Tepat.
+ ~Menggunakan bahasa yang sangat teknikal supaya sukar difahami.
+ ~Memastikan laporan itu sangat panjang.
+ ~Menyembunyikan penemuan yang sensitif daripada pihak pengurusan.
+}
+
+::D1_Q37:: "Integrity" dalam konteks audit IS bermaksud? {
+ =Data tidak diubah suai tanpa kebenaran. #Tepat.
+ ~Data sentiasa tersedia bila diperlukan.
+ ~Data tidak boleh dibaca oleh sesiapa pun.
+ ~Data disimpan dalam cakera keras yang besar.
+}
+
+::D1_Q38:: Audit "Pre-implementation" dilakukan untuk? {
+ =Mengesahkan kawalan telah dibina sebelum sistem "live". #Tepat.
+ ~Membaiki komputer yang rosak.
+ ~Melatih pengguna cara menggunakan e-mel.
+ ~Mengira kos elektrik pusat data.
+}
+
+::D1_Q39:: Manakah antara berikut merupakan standard profesional yang harus dipatuhi oleh CISA? {
+ =Standard Pengauditan IS ISACA. #Tepat.
+ ~Standard Perakaunan Tempatan sahaja.
+ ~Manual Pengguna Microsoft Word.
+ ~Kod Etika Pemandu Lori.
+}
+
+::D1_Q40:: "Audit Risk" secara keseluruhan terdiri daripada gabungan? {
+ =Inherent Risk, Control Risk, dan Detection Risk. #Tepat.
+ ~Hanya Risiko Perniagaan.
+ ~Risiko Kewangan dan Risiko Pasaran.
+ ~Risiko Cuaca dan Risiko Elektrik.
+}
+
+$CATEGORY: CISA/Domain1/Bahagian3
+
+::D1_Q41:: Manakah antara berikut merupakan petunjuk terbaik bahawa fungsi audit dalaman mempunyai kedudukan organisasi yang sesuai? {
+ =Ketua Audit melapor secara fungsional kepada Jawatankuasa Audit. #Tepat.
+ ~Juruaudit mempunyai akses kepada semua bilik server.
+ ~Bajet audit diluluskan oleh Ketua Pegawai Maklumat (CIO).
+ ~Laporan audit dihantar kepada semua pekerja melalui e-mel.
+}
+
+::D1_Q42:: Dalam pengauditan berasaskan risiko, apakah yang perlu dilakukan oleh juruaudit jika risiko kawalan (Control Risk) dinilai sebagai rendah? {
+ =Melakukan ujian kawalan untuk mengesahkan penilaian tersebut. #Tepat.
+ ~Mengabaikan ujian substantif sepenuhnya.
+ ~Meningkatkan saiz sampel untuk ujian substantif.
+ ~Menyatakan bahawa tiada risiko bawaan wujud.
+}
+
+::D1_Q43:: Manakah antara teknik berikut yang paling berkesan untuk memeriksa pematuhan terhadap dasar "Clean Desk"? {
+ =Pemerhatian fizikal secara mengejut. #Tepat.
+ ~Menghantar soal selidik kepada kakitangan.
+ ~Menyemak log log masuk komputer.
+ ~Menemubual pengurus pejabat.
+}
+
+::D1_Q44:: "Audit Charters" harus dikaji semula secara berkala untuk memastikan? {
+ =Ia tetap sejajar dengan objektif organisasi dan perubahan persekitaran. #Tepat.
+ ~Semua juruaudit telah membaca kod etika.
+ ~Bajet audit tidak melebihi had.
+ ~Nama-nama juruaudit dikemas kini.
+}
+
+::D1_Q45:: Apakah kegunaan utama "Generalized Audit Software" (GAS)? {
+ =Membolehkan juruaudit mengakses dan menganalisis data dari pelbagai platform. #Tepat.
+ ~Menulis laporan audit secara automatik.
+ ~Mengawal akses fizikal ke pejabat audit.
+ ~Mengenalpasti virus dalam rangkaian.
+}
+
+::D1_Q46:: "Independence" juruaudit IS dianggap terjejas jika juruaudit tersebut? {
+ =Mencadangkan penyelesaian spesifik dan kemudian mengaudit pelaksanaannya. #Tepat.
+ ~Memberikan nasihat umum tentang kawalan semasa pembangunan sistem.
+ ~Mempunyai sijil CISA yang masih sah.
+ ~Menghadiri mesyuarat status projek sebagai pemerhati.
+}
+
+::D1_Q47:: Manakah antara berikut merupakan risiko terbesar dalam penggunaan "Computer-Assisted Audit Techniques" (CAATs)? {
+ =Integriti data yang diekstrak mungkin terjejas semasa proses muat turun. #Tepat.
+ ~CAATs mengambil masa terlalu lama untuk dijalankan.
+ ~Hanya pakar IT yang boleh menggunakan CAATs.
+ ~CAATs tidak boleh digunakan pada pangkalan data besar.
+}
+
+::D1_Q48:: Apakah tujuan utama mesyuarat pembukaan (Exit Interview/Meeting)? {
+ =Mendapatkan persetujuan pihak pengurusan terhadap fakta dalam penemuan audit. #Tepat.
+ ~Memulakan perancangan audit untuk tahun depan.
+ ~Menilai prestasi peribadi juruaudit.
+ ~Menyerahkan kunci bilik server kepada pengurus IT.
+}
+
+::D1_Q49:: Semasa mengaudit perolehan sistem, juruaudit IS harus memastikan bahawa? {
+ =Kriteria pemilihan vendor adalah objektif dan didokumentasikan. #Tepat.
+ ~Vendor yang paling murah sentiasa dipilih.
+ ~Ketua Pegawai Eksekutif (CEO) memilih vendor secara peribadi.
+ ~Tiada kontrak bertulis diperlukan untuk vendor kecil.
+}
+
+::D1_Q50:: "CSA" (Control Self-Assessment) memberikan faedah utama dalam bentuk? {
+ =Pengesanan awal risiko oleh kakitangan yang mengendalikan proses tersebut. #Tepat.
+ ~Pengurangan gaji untuk jabatan audit.
+ ~Penghapusan keperluan untuk audit luaran.
+ ~Peningkatan kelajuan pelayan web.
+}
+
+::D1_Q51:: Manakah antara berikut merupakan contoh kawalan pengesanan (Detective Control)? {
+ =Semakan laporan log aktiviti setiap minggu. #Tepat.
+ ~Penggunaan kata laluan yang kompleks.
+ ~Pengasingan tugas antara pembangun dan operasi.
+ ~Pagar elektrik di sekeliling pusat data.
+}
+
+::D1_Q52:: Apakah kelemahan utama persampelan bukan statistik (Judgmental Sampling)? {
+ =Ia tidak membolehkan kesimpulan statistik dibuat ke atas keseluruhan populasi. #Tepat.
+ ~Ia memerlukan lebih banyak masa daripada persampelan statistik.
+ ~Ia dilarang sepenuhnya oleh standard audit antarabangsa.
+ ~Ia hanya boleh dilakukan oleh juruaudit junior.
+}
+
+::D1_Q53:: Jika juruaudit menemui ralat yang ketara dalam sampel, langkah pertama yang betul ialah? {
+ =Menyiasat punca ralat dan menentukan sama ada ia bersifat sistematik. #Tepat.
+ ~Membuang sampel tersebut dan memilih sampel baru.
+ ~Melaporkan ralat tersebut terus kepada media.
+ ~Meminta kakitangan IT memadam ralat tersebut.
+}
+
+::D1_Q54:: "Continuous Monitoring" dilakukan oleh? {
+ =Pihak pengurusan untuk memastikan kawalan berfungsi secara berterusan. #Tepat.
+ ~Juruaudit luaran setiap tiga tahun.
+ ~Lembaga pengarah setahun sekali.
+ ~Hanya oleh vendor perisian pihak ketiga.
+}
+
+::D1_Q55:: Manakah antara berikut merupakan dokumen yang paling penting untuk dirujuk semasa merancang audit bagi sistem aplikasi baru? {
+ =Dokumen keperluan perniagaan (Business Requirements Document). #Tepat.
+ ~Manual latihan pengguna.
+ ~Carta organisasi jabatan pemasaran.
+ ~Bil elektrik tahun lepas.
+}
+
+::D1_Q56:: Apakah risiko yang paling berkaitan dengan kegagalan melakukan audit susulan? {
+ =Kelemahan yang dikenal pasti sebelum ini mungkin tidak diperbaiki. #Tepat.
+ ~Juruaudit tidak akan mendapat bonus tahunan.
+ ~Laporan audit tidak akan dicetak.
+ ~Pihak pengurusan akan terlupa nama juruaudit.
+}
+
+::D1_Q57:: Dalam audit IS, "Reliability" merujuk kepada? {
+ =Keupayaan sistem untuk berfungsi secara konsisten dan tepat. #Tepat.
+ ~Warna antara muka pengguna (UI).
+ ~Jenama komputer yang digunakan.
+ ~Bilangan pekerja di jabatan IT.
+}
+
+::D1_Q58:: Manakah antara berikut merupakan kelebihan utama kaedah "Integrated Test Facility" (ITF)? {
+ =Ia membolehkan pengujian transaksi dilakukan semasa sistem sedang beroperasi. #Tepat.
+ ~Ia tidak memerlukan sebarang pengetahuan teknikal.
+ ~Ia adalah cara termurah untuk melakukan audit.
+ ~Ia menjamin tiada serangan penggodam akan berlaku.
+}
+
+::D1_Q59:: Apakah faktor paling penting semasa menentukan saiz sampel untuk ujian kawalan? {
+ =Tahap keyakinan yang diperlukan oleh juruaudit. #Tepat.
+ ~Saiz fizikal fail data.
+ ~Waktu solat atau waktu makan tengah hari.
+ ~Bilangan juruaudit yang sedang bercuti.
+}
+
+::D1_Q60:: Manakah antara berikut merupakan contoh kawalan pencegahan (Preventive Control)? {
+ =Sistem pengesahan pelbagai faktor (MFA). #Tepat.
+ ~Audit tahunan oleh pihak ketiga.
+ ~Analisis log selepas pencerobohan.
+ ~Laporan pengecualian harian.
+}
+
+::D1_Q61:: Apakah matlamat utama pengauditan sistem maklumat? {
+ =Memberikan jaminan bahawa aset dilindungi dan integriti data terpelihara. #Tepat.
+ ~Memastikan semua pekerja menggunakan perisian yang sama.
+ ~Membantu jabatan IT membeli perkakasan baru.
+ ~Menghukum pekerja yang melakukan kesilapan kecil.
+}
+
+::D1_Q62:: "Audit Risk" ialah fungsi daripada? {
+ =Risiko Bawaan x Risiko Kawalan x Risiko Pengesanan. #Tepat.
+ ~Risiko Perniagaan + Risiko Pasaran.
+ ~Risiko Kewangan / Risiko Operasi.
+ ~Bilangan pekerja x Bilangan server.
+}
+
+::D1_Q63:: Apakah tindakan terbaik juruaudit jika pihak pengurusan enggan menerima penemuan audit yang sah? {
+ =Mendokumentasikan bantahan pengurusan tetapi mengekalkan penemuan dalam laporan. #Tepat.
+ ~Memadam penemuan tersebut untuk mengelakkan konflik.
+ ~Meletak jawatan dengan serta-merta.
+ ~Menjerit kepada pihak pengurusan semasa mesyuarat.
+}
+
+::D1_Q64:: "Stratified Sampling" digunakan apabila? {
+ =Populasi mempunyai variasi yang besar dan perlu dibahagikan kepada sub-kumpulan. #Tepat.
+ ~Semua item dalam populasi adalah identikal.
+ ~Juruaudit tidak mempunyai masa yang cukup.
+ ~Hanya terdapat 5 item dalam populasi.
+}
+
+::D1_Q65:: "Professional Skepticism" bermaksud juruaudit harus? {
+ =Mempunyai minda yang sentiasa mempersoal dan menilai bukti secara kritis. #Tepat.
+ ~Menganggap semua orang berbohong sehingga terbukti sebaliknya.
+ ~Sentiasa marah kepada auditi.
+ ~Tidak mempercayai sebarang sistem komputer.
+}
+
+::D1_Q66:: Manakah antara berikut merupakan bukti audit yang paling lemah? {
+ =Kenyataan lisan daripada individu yang bertanggungjawab ke atas proses. #Tepat.
+ ~Log sistem yang dijana secara automatik.
+ ~Surat pengesahan daripada bank pihak ketiga.
+ ~Pemerhatian terus oleh juruaudit.
+}
+
+::D1_Q67:: Apakah langkah pertama dalam penilaian risiko audit? {
+ =Mengenalpasti aset maklumat dan proses perniagaan yang kritikal. #Tepat.
+ ~Membeli polisi insurans siber.
+ ~Memasang firewall baru.
+ ~Menulis laporan akhir audit.
+}
+
+::D1_Q68:: "Compliance Audit" fokus kepada? {
+ =Pematuhan terhadap undang-undang, peraturan, dan dasar dalaman. #Tepat.
+ ~Kecekapan penggunaan tenaga elektrik.
+ ~Kecantikan reka bentuk laman web syarikat.
+ ~Kelajuan menaip pekerja kerani.
+}
+
+::D1_Q69:: Apakah kegunaan "Audit Program"? {
+ =Menyediakan langkah-langkah kerja terperinci yang perlu diikuti semasa audit. #Tepat.
+ ~Menentukan gaji juruaudit.
+ ~Menjadi perisian antivirus untuk jabatan audit.
+ ~Mengatur jadual cuti tahunan pasukan audit.
+}
+
+::D1_Q70:: Jika juruaudit IS mendapati kawalan utama hilang, juruaudit harus? {
+ =Mencari kawalan pampasan (Compensating Controls) yang mungkin wujud. #Tepat.
+ ~Terus melaporkan kegagalan total sistem.
+ ~Mencipta kawalan sendiri untuk organisasi tersebut.
+ ~Mengabaikan ketiadaan tersebut jika sistem masih berfungsi.
+}
+
+::D1_Q71:: "Operational Audit" menilai? {
+ =Kecekapan dan keberkesanan operasi dalam organisasi. #Tepat.
+ ~Hanya keselamatan kata laluan.
+ ~Ketepatan kunci kira-kira.
+ ~Warna cat di bilik server.
+}
+
+::D1_Q72:: Antara berikut, manakah yang paling membantu juruaudit memahami hubungan antara aplikasi? {
+ =Carta aliran sistem (System Flowcharts). #Tepat.
+ ~Kod sumber program.
+ ~Manual perkakasan.
+ ~Senarai inventori perabot.
+}
+
+::D1_Q73:: "Sampling Risk" adalah risiko bahawa? {
+ =Sampel yang dipilih tidak mewakili keseluruhan populasi. #Tepat.
+ ~Juruaudit tersalah pilih perisian audit.
+ ~Sampel data hilang semasa proses muat turun.
+ ~Populasi data terlalu kecil untuk diaudit.
+}
+
+::D1_Q74:: Audit "Post-Implementation" (PIR) harus dilakukan? {
+ =Selepas sistem beroperasi cukup lama untuk mencapai keadaan stabil. #Tepat.
+ ~Satu minit selepas sistem diaktifkan.
+ ~Sebelum sistem mula dibangunkan.
+ ~Hanya jika sistem tersebut gagal berfungsi.
+}
+
+::D1_Q75:: Manakah antara berikut yang merupakan "Internal Control"? {
+ =Prosedur kelulusan transaksi oleh penyelia. #Tepat.
+ ~Undang-undang jenayah negara.
+ ~Cuaca yang baik untuk operasi server.
+ ~Harga saham syarikat di bursa.
+}
+
+::D1_Q76:: "Efficiency" dalam audit IS bermaksud? {
+ =Mencapai objektif dengan penggunaan sumber yang minimum. #Tepat.
+ ~Melakukan audit secepat mungkin tanpa peduli kualiti.
+ ~Menggunakan komputer yang paling mahal.
+ ~Mempunyai ramai juruaudit dalam satu pasukan.
+}
+
+::D1_Q77:: "Standard" dalam konteks audit ISACA bersifat? {
+ =Mandatori (Wajib dipatuhi oleh ahli). #Tepat.
+ ~Pilihan (Optional).
+ ~Hanya untuk juruaudit di Amerika Syarikat.
+ ~Hanya untuk pelajar universiti.
+}
+
+::D1_Q78:: Apakah tindakan juruaudit jika terdapat had skop (Scope Limitation) yang dikenakan oleh auditi? {
+ =Menyatakan had tersebut dalam laporan audit dan menilai kesannya terhadap kesimpulan. #Tepat.
+ ~Berhenti melakukan audit dan pulang ke rumah.
+ ~Membayar auditi untuk memberikan maklumat.
+ ~Menggodam sistem untuk mendapatkan data secara rahsia.
+}
+
+::D1_Q79:: "Data Integrity" memastikan bahawa data adalah? {
+ =Tepat, lengkap, dan tidak diubah tanpa kebenaran. #Tepat.
+ ~Boleh dibaca oleh semua orang di internet.
+ ~Disimpan dalam sekurang-kurangnya sepuluh lokasi.
+ ~Sentiasa dalam bahasa Inggeris.
+}
+
+::D1_Q80:: Manakah yang lebih diutamakan dalam audit berasaskan risiko? {
+ =Kawasan yang mempunyai impak perniagaan yang tinggi dan kawalan yang lemah. #Tepat.
+ ~Kawasan yang paling mudah untuk diaudit.
+ ~Kawasan yang paling disukai oleh juruaudit.
+ ~Kawasan yang tidak pernah mengalami masalah.
+}
+
+::D1_Q81:: "Substantiating" penemuan audit bermaksud? {
+ =Mendapatkan bukti yang cukup untuk menyokong penemuan tersebut. #Tepat.
+ ~Menggantikan penemuan dengan pendapat peribadi.
+ ~Meminta auditi menulis penemuan bagi pihak juruaudit.
+ ~Memadam penemuan jika ia terlalu teknikal.
+}
+
+::D1_Q82:: Apakah tujuan utama pengasingan tugas (Segregation of Duties)? {
+ =Mengurangkan risiko ralat atau penipuan dilakukan dan disembunyikan oleh seorang individu. #Tepat.
+ ~Menjimatkan kos gaji pekerja.
+ ~Memastikan semua orang tahu cara melakukan semua kerja.
+ ~Meningkatkan kelajuan pemprosesan data.
+}
+
+::D1_Q83:: Manakah antara berikut merupakan teknik audit "Continuous"? {
+ =SCARF (Systems Control Audit Review File). #Tepat.
+ ~Semakan dokumen tahunan.
+ ~Temubual akhir tahun.
+ ~Pemerhatian fizikal mingguan.
+}
+
+::D1_Q84:: "Audit Evidence" haruslah? {
+ =Mencukupi, relevan, dan boleh dipercayai. #Tepat.
+ ~Sukar difahami dan sangat panjang.
+ ~Hanya dalam bentuk kertas sahaja.
+ ~Disimpan oleh auditi, bukan juruaudit.
+}
+
+::D1_Q85:: Jika juruaudit luar ingin menggunakan kerja juruaudit dalaman, mereka mesti menilai dahulu? {
+ =Objektif dan kompetensi fungsi audit dalaman tersebut. #Tepat.
+ ~Gaji juruaudit dalaman.
+ ~Umur juruaudit dalaman.
+ ~Jenama komputer yang digunakan oleh audit dalaman.
+}
+
+::D1_Q86:: "Corrective Controls" bertujuan untuk? {
+ =Membaiki kerosakan atau ralat yang telah dikesan. #Tepat.
+ ~Menghalang ralat daripada berlaku.
+ ~Memberi amaran apabila ralat berlaku.
+ ~Menghukum orang yang melakukan ralat.
+}
+
+::D1_Q87:: Manakah antara berikut merupakan cabaran terbesar dalam "Audit Mobility"? {
+ =Keselamatan data audit yang disimpan dalam peranti mudah alih. #Tepat.
+ ~Berat komputer riba yang dibawa.
+ ~Ketiadaan akses internet di kafe.
+ ~Warna beg komputer yang tidak menarik.
+}
+
+::D1_Q88:: "Attribute Sampling" paling sesuai digunakan untuk menguji? {
+ =Kehadiran atau ketiadaan kawalan (Ya/Tidak). #Tepat.
+ ~Nilai ringgit bagi inventori.
+ ~Jumlah berat perkakasan server.
+ ~Kelajuan muat turun fail.
+}
+
+::D1_Q89:: "Variable Sampling" digunakan untuk menguji? {
+ =Nilai numerik atau jumlah kewangan. #Tepat.
+ ~Sama ada pintu berkunci atau tidak.
+ ~Sama ada kakitangan memakai kad ID.
+ ~Sama ada dasar organisasi telah ditandatangani.
+}
+
+::D1_Q90:: Apakah tujuan utama penggunaan "Checklists" dalam audit? {
+ =Memastikan semua langkah audit yang penting telah dilaksanakan. #Tepat.
+ ~Menggantikan pertimbangan profesional juruaudit.
+ ~Menjadi satu-satunya bukti audit yang diperlukan.
+ ~Menunjukkan kepada pengurusan bahawa audit itu mudah.
+}
+
+::D1_Q91:: Manakah antara berikut merupakan risiko dalam "Remote Auditing"? {
+ =Kesukaran untuk memerhati budaya organisasi dan kawalan fizikal secara langsung. #Tepat.
+ ~Juruaudit tidak perlu memakai pakaian pejabat.
+ ~Penjimatan kos perjalanan organisasi.
+ ~Penggunaan aplikasi sidang video yang terlalu banyak.
+}
+
+::D1_Q92:: "Competence" juruaudit IS merujuk kepada? {
+ =Pengetahuan, kemahiran, dan pengalaman yang diperlukan untuk audit tersebut. #Tepat.
+ ~Keupayaan juruaudit untuk berlari pantas.
+ ~Bilangan kawan yang dimiliki oleh juruaudit dalam organisasi.
+ ~Saiz pejabat juruaudit.
+}
+
+::D1_Q93:: Apakah fungsi "Audit Logs"? {
+ =Merekodkan aktiviti sistem untuk tujuan akauntabiliti dan penyiasatan. #Tepat.
+ ~Menyimpan salinan sandaran (backup) pangkalan data.
+ ~Meningkatkan kelajuan pemprosesan CPU.
+ ~Menghantar e-mel promosi kepada pelanggan.
+}
+
+::D1_Q94:: "Reasonable Assurance" bermaksud? {
+ =Tahap jaminan yang tinggi tetapi bukan mutlak (100%). #Tepat.
+ ~Juruaudit menjamin tiada ralat wujud sama sekali.
+ ~Hanya 10% daripada data yang benar.
+ ~Jaminan yang diberikan secara lisan tanpa bukti.
+}
+
+::D1_Q95:: "Audit Objective" harus ditentukan berdasarkan? {
+ =Objektif perniagaan dan penilaian risiko. #Tepat.
+ ~Ketersediaan makanan di kafetaria auditi.
+ ~Jenama perisian yang paling popular di pasaran.
+ ~Bilangan hari cuti umum dalam sebulan.
+}
+
+::D1_Q96:: Manakah antara berikut yang merupakan "Administrative Control"? {
+ =Dasar keselamatan maklumat dan prosedur latihan. #Tepat.
+ ~Firewall dan sistem pengesanan pencerobohan.
+ ~Pagar dan kunci mangga.
+ ~Enkripsi cakera keras.
+}
+
+::D1_Q97:: "Statistical Sampling" membolehkan juruaudit untuk? {
+ =Menentukan secara matematik saiz sampel dan menilai keputusan. #Tepat.
+ ~Memilih item berdasarkan perasaan peribadi.
+ ~Mengelakkan semua kerja manual.
+ ~Menjamin bahawa tiada ralat langsung dalam populasi.
+}
+
+::D1_Q98:: Dalam audit sistem maklumat, siapakah "Auditee"? {
+ =Individu atau jabatan yang sedang diaudit. #Tepat.
+ ~Pelanggan luaran syarikat.
+ ~Juruaudit itu sendiri.
+ ~Orang yang menjual perisian audit.
+}
+
+::D1_Q99:: Apakah hasil akhir bagi tugasan audit IS? {
+ =Laporan audit yang mengandungi penemuan dan cadangan. #Tepat.
+ ~Satu set pelayan baru untuk auditi.
+ ~Kenaikan pangkat untuk ketua IT.
+ ~Sijil penghargaan kepada semua kakitangan.
+}
+
+::D1_Q100:: "Follow-up" dianggap selesai apabila? {
+ =Juruaudit berpuas hati bahawa risiko telah ditangani dengan sewajarnya. #Tepat.
+ ~Auditi berjanji akan membaiki ralat tahun depan.
+ ~Laporan asal telah hilang.
+ ~Jabatan audit ditutup.
+}

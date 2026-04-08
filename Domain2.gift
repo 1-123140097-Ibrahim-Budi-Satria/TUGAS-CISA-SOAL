@@ -1,0 +1,701 @@
+$CATEGORY: CISA/Domain2/Full
+
+::D2_Q1:: Manakah antara berikut merupakan petunjuk terbaik bagi tadbir urus IT yang berkesan? {
+ =Strategi IT sejajar dengan objektif strategi perniagaan. #Tepat.
+ ~Semua projek IT disiapkan di bawah bajet.
+ ~Kakitangan IT mempunyai sijil teknikal terkini.
+ ~Organisasi menggunakan teknologi paling canggih di pasaran.
+}
+
+::D2_Q2:: Apakah peranan utama Jawatankuasa Pemandu IT (IT Steering Committee)? {
+ =Menentukan keutamaan pelaburan IT dan menyelaraskan projek dengan matlamat perniagaan. #Tepat.
+ ~Menulis kod aplikasi untuk sistem kewangan.
+ ~Melakukan sandaran harian untuk pangkalan data.
+ ~Meluluskan cuti tahunan kakitangan sokongan IT.
+}
+
+::D2_Q3:: Manakah antara dokumen berikut yang memberikan arahan mandatori peringkat tinggi? {
+ =Dasar (Policy) #Tepat.
+ ~Garis Panduan (Guideline)
+ ~Prosedur (Procedure)
+ ~Piawaian (Standard)
+}
+
+::D2_Q4:: Pengasingan tugas (Segregation of Duties) bertujuan untuk? {
+ =Mengurangkan risiko ralat atau penipuan dilakukan dan disembunyikan. #Tepat.
+ ~Memastikan semua orang melakukan kerja yang sama.
+ ~Meningkatkan kelajuan pembangunan sistem.
+ ~Menjimatkan kos lesen perisian.
+}
+
+::D2_Q5:: Apakah tujuan utama Analisis Jurang (Gap Analysis) dalam strategi IT? {
+ =Mengenalpasti perbezaan antara keadaan semasa dan keadaan masa depan yang diingini. #Tepat.
+ ~Mengira jumlah habuk di pusat data.
+ ~Menilai kelajuan menaip pekerja.
+ ~Menghukum vendor yang lewat menghantar barang.
+}
+
+::D2_Q6:: Matlamat utama Pengurusan Risiko IT adalah untuk? {
+ =Mengurangkan risiko ke tahap yang boleh diterima oleh pihak pengurusan. #Tepat.
+ ~Menghapuskan semua risiko secara total.
+ ~Memindahkan semua tanggungjawab kepada pihak insurans.
+ ~Memastikan tiada ralat manusia berlaku langsung.
+}
+
+::D2_Q7:: Siapakah yang bertanggungjawab sepenuhnya terhadap tadbir urus IT dalam sesebuah organisasi? {
+ =Lembaga Pengarah dan Pengurusan Atasan #Tepat.
+ ~Pentadbir Pangkalan Data.
+ ~Juruaudit Luaran.
+ ~Pekerja sambilan IT.
+}
+
+::D2_Q8:: "Balanced Scorecard" membantu organisasi untuk? {
+ =Mengukur prestasi IT melampaui metrik kewangan tradisional. #Tepat.
+ ~Menimbang berat perkakasan server.
+ ~Mengira jumlah jam bekerja pekerja.
+ ~Menentukan harga jualan produk IT.
+}
+
+::D2_Q9:: Dalam struktur organisasi IT, fungsi pembangunan sistem harus diasingkan daripada? {
+ =Operasi komputer. #Tepat.
+ ~Pemasaran.
+ ~Sumber Manusia.
+ ~Latihan Pengguna.
+}
+
+::D2_Q10:: Apakah tanggungjawab utama Pemilik Data (Data Owner)? {
+ =Menentukan klasifikasi data dan meluluskan akses. #Tepat.
+ ~Melakukan penyelenggaraan perkakasan.
+ ~Menulis kod enkripsi.
+ ~Menyapu sampah di bilik stor data.
+}
+
+::D2_Q11:: "Key Performance Indicators" (KPI) digunakan terutamanya untuk? {
+ =Mengukur pencapaian objektif strategi. #Tepat.
+ ~Menukar kata laluan pengguna.
+ ~Memasang perisian antivirus.
+ ~Menghantar e-mel kepada pelanggan.
+}
+
+::D2_Q12:: Apakah kelebihan utama penyumberan luar (Outsourcing) IT? {
+ =Membolehkan organisasi fokus kepada kecekapan teras (core competencies). #Tepat.
+ ~Menghapuskan keperluan untuk pengawasan pengurusan.
+ ~Menjamin 100% keselamatan data.
+ ~Mengurangkan bilangan pelanggan.
+}
+
+::D2_Q13:: Manakah antara berikut merupakan risiko terbesar "Shadow IT"? {
+ =Sistem yang tidak dilesenkan atau tidak selamat digunakan tanpa pengetahuan IT pusat. #Tepat.
+ ~Komputer terlalu mahal.
+ ~Pengguna menjadi terlalu mahir.
+ ~Skrin monitor terlalu terang.
+}
+
+::D2_Q14:: "Business Impact Analysis" (BIA) membantu dalam? {
+ =Mengenalpasti proses perniagaan kritikal dan keperluan pemulihan. #Tepat.
+ ~Menentukan warna logo syarikat.
+ ~Mengira keuntungan bersih syarikat.
+ ~Memilih jenama kopi di pejabat.
+}
+
+::D2_Q15:: Dalam audit tadbir urus IT, ketiadaan pelan strategi IT merupakan? {
+ =Kelemahan besar yang menunjukkan kurangnya hala tuju. #Tepat.
+ ~Perkara kecil yang boleh diabaikan.
+ ~Tanggungjawab juruaudit untuk menulisnya.
+ ~Tanda organisasi sangat fleksibel.
+}
+
+::D2_Q16:: Peranan "Quality Assurance" (QA) adalah untuk? {
+ =Memastikan proses pembangunan mematuhi piawaian yang ditetapkan. #Tepat.
+ ~Menjalankan jualan produk.
+ ~Memasang kabel rangkaian.
+ ~Mencuci pejabat.
+}
+
+::D2_Q17:: Apakah tujuan utama Perjanjian Tahap Perkhidmatan (SLA)? {
+ =Menetapkan jangkaan prestasi antara penyedia perkhidmatan dan pelanggan. #Tepat.
+ ~Menghukum pekerja yang sakit.
+ ~Menyimpan rahsia perdagangan.
+ ~Mengira jumlah fail yang dimuat turun.
+}
+
+::D2_Q18:: "Risk Appetite" merujuk kepada? {
+ =Tahap risiko yang sanggup diterima oleh organisasi untuk mencapai matlamatnya. #Tepat.
+ ~Keinginan untuk tidak mengambil sebarang risiko.
+ ~Jumlah wang yang dibelanjakan untuk keselamatan.
+ ~Bilangan serangan siber yang berlaku.
+}
+
+::D2_Q19:: Apakah peranan Juruaudit IS dalam tadbir urus IT? {
+ =Menilai sama ada amalan tadbir urus menyokong strategi organisasi. #Tepat.
+ ~Menjadi ahli Jawatankuasa Pemandu yang mempunyai kuasa undi.
+ ~Menetapkan bajet IT.
+ ~Melantik Ketua Pegawai Maklumat (CIO).
+}
+
+::D2_Q20:: "Capability Maturity Model Integration" (CMMI) digunakan untuk? {
+ =Menilai tahap kematangan proses organisasi. #Tepat.
+ ~Mengira kelajuan internet.
+ ~Membeli lesen Windows.
+ ~Menentukan saiz meja pekerja.
+}
+
+::D2_Q21:: Manakah antara berikut merupakan petanda pengurusan kapasiti yang lemah? {
+ =Sistem menjadi sangat perlahan semasa waktu puncak. #Tepat.
+ ~Monitor komputer berwarna hitam.
+ ~Meja kerusi tidak cukup.
+ ~Lampu pejabat terpadam.
+}
+
+::D2_Q22:: Klasifikasi data adalah penting kerana ia? {
+ =Membantu menentukan tahap perlindungan yang diperlukan bagi setiap jenis data. #Tepat.
+ ~Menjadikan data lebih cantik.
+ ~Membolehkan data dipadam dengan lebih cepat.
+ ~Mengurangkan saiz pangkalan data.
+}
+
+::D2_Q23:: Apakah risiko utama apabila CIO melapor terus kepada CFO? {
+ =Pelaburan IT mungkin terlalu fokus kepada kos jangka pendek berbanding nilai strategik. #Tepat.
+ ~IT akan mendapat terlalu banyak wang.
+ ~CIO akan menjadi bos kepada CFO.
+ ~Tiada risiko langsung.
+}
+
+::D2_Q24:: "Portfolio Management" dalam IT bertujuan untuk? {
+ =Menguruskan pelaburan IT sebagai satu kumpulan projek untuk memaksimumkan pulangan. #Tepat.
+ ~Menyimpan gambar pekerja.
+ ~Menjual perkakasan lama.
+ ~Menulis surat khabar syarikat.
+}
+
+::D2_Q25:: Apakah langkah pertama dalam proses pengurusan risiko? {
+ =Mengenalpasti aset dan ancaman. #Tepat.
+ ~Membayar insurans.
+ ~Memadam data.
+ ~Menutup syarikat.
+}
+
+::D2_Q26:: "Change Management" yang berkesan memastikan? {
+ =Perubahan kepada sistem dilakukan secara terkawal dan didokumentasikan. #Tepat.
+ ~Tiada perubahan dibenarkan langsung.
+ ~Semua orang boleh menukar kod sesuka hati.
+ ~Hanya vendor boleh menukar sistem.
+}
+
+::D2_Q27:: Manakah antara berikut merupakan contoh kawalan pengurusan? {
+ =Semakan prestasi berkala kakitangan IT. #Tepat.
+ ~Firewall rangkaian.
+ ~Pintu berkunci mangga.
+ ~Enkripsi data.
+}
+
+::D2_Q28:: "Enterprise Architecture" (EA) membantu dalam? {
+ =Menyelaraskan proses perniagaan, data, dan teknologi di seluruh organisasi. #Tepat.
+ ~Membina bangunan pejabat.
+ ~Melukis gambar pemandangan.
+ ~Membeli telefon bimbit pekerja.
+}
+
+::D2_Q29:: Apakah matlamat "IT Asset Management"? {
+ =Menjejaki dan mengurus kitaran hayat aset IT dari perolehan hingga pelupusan. #Tepat.
+ ~Memastikan semua komputer adalah baru.
+ ~Menghias bilik server.
+ ~Menjual komputer secara rahsia.
+}
+
+::D2_Q30:: Dalam audit pengurusan vendor, perkara paling penting untuk disemak ialah? {
+ =Hak untuk mengaudit (Right-to-audit clause) dalam kontrak. #Tepat.
+ ~Warna logo vendor.
+ ~Bilangan pekerja vendor yang kacak.
+ ~Lokasi restoran berdekatan pejabat vendor.
+}
+
+::D2_Q31:: "Risk Register" harus mengandungi? {
+ =Senarai risiko yang dikenal pasti, pemilik risiko, dan pelan mitigasi. #Tepat.
+ ~Nama semua pekerja syarikat.
+ ~Jadual cuti sekolah.
+ ~Senarai menu kafeteria.
+}
+
+::D2_Q32:: Manakah antara berikut merupakan peranan "Chief Information Security Officer" (CISO)? {
+ =Mengetuai strategi dan pelaksanaan keselamatan maklumat. #Tepat.
+ ~Membaiki mesin fotokopi.
+ ~Mengira stok alat tulis.
+ ~Menghantar surat khabar harian.
+}
+
+::D2_Q33:: "User Awareness Training" adalah penting untuk? {
+ =Mengurangkan risiko serangan kejuruteraan sosial (social engineering). #Tepat.
+ ~Mengajar pengguna cara menaip dengan sepuluh jari.
+ ~Memastikan pengguna tahu harga komputer mereka.
+ ~Mengurangkan bil elektrik.
+}
+
+::D2_Q34:: Apakah tujuan utama "Feasibility Study"? {
+ =Menilai daya maju projek sebelum komitmen kewangan dibuat. #Tepat.
+ ~Menulis laporan tahunan.
+ ~Melatih kakitangan baru.
+ ~Memasang perisian permainan.
+}
+
+::D2_Q35:: "Inherent Risk" dalam Domain 2 merujuk kepada? {
+ =Risiko yang wujud sebelum sebarang tindakan mitigasi diambil. #Tepat.
+ ~Risiko yang hanya berlaku di waktu malam.
+ ~Risiko yang disebabkan oleh juruaudit.
+ ~Risiko yang sudah selesai ditangani.
+}
+
+::D2_Q36:: Apakah petunjuk terbaik bagi budaya keselamatan yang kuat? {
+ =Pekerja melaporkan insiden keselamatan secara sukarela. #Tepat.
+ ~Semua pintu mempunyai 10 mangga kunci.
+ ~Tiada siapa dibenarkan menggunakan e-mel.
+ ~Denda yang sangat tinggi untuk setiap kesalahan.
+}
+
+::D2_Q37:: "IT Investment Board" bertanggungjawab untuk? {
+ =Meluluskan dan memantau pelaburan IT utama. #Tepat.
+ ~Menulis kod Java.
+ ~Membasuh kereta syarikat.
+ ~Menyusun fail di rak.
+}
+
+::D2_Q38:: Antara berikut, manakah amalan terbaik untuk pengurusan kata laluan? {
+ =Memerlukan pertukaran kata laluan berdasarkan peristiwa atau risiko, bukan sekadar tempoh masa. #Tepat.
+ ~Menulis kata laluan di bawah papan kekunci.
+ ~Menggunakan kata laluan yang sama untuk semua akaun.
+ ~Berkongsi kata laluan dengan rakan sekerja.
+}
+
+::D2_Q39:: Apakah kegunaan "Benchmarking" dalam IT? {
+ =Membandingkan prestasi IT organisasi dengan piawaian industri atau pesaing. #Tepat.
+ ~Mengukur ketinggian meja komputer.
+ ~Menentukan siapa pekerja paling popular.
+ ~Mengira jumlah klik tetikus.
+}
+
+::D2_Q40:: Manakah antara berikut yang merupakan petunjuk "Resource Management" yang baik? {
+ =Kakitangan IT diperuntukkan berdasarkan keutamaan projek perniagaan. #Tepat.
+ ~Kakitangan IT sentiasa bekerja lebih masa setiap hari.
+ ~Kakitangan IT tidak mempunyai sebarang kerja.
+ ~Semua kakitangan IT mempunyai ijazah yang sama.
+}
+
+::D2_Q41:: "COBIT" adalah kerangka kerja untuk? {
+ =Tadbir urus dan pengurusan IT perusahaan. #Tepat.
+ ~Memasak makanan di pejabat.
+ ~Mengira gaji pekerja.
+ ~Membina rangkaian telekomunikasi.
+}
+
+::D2_Q42:: Apakah kesan utama pengurusan risiko yang lemah? {
+ =Kerugian kewangan dan kerosakan reputasi organisasi. #Tepat.
+ ~Komputer menjadi lebih laju.
+ ~Pekerja menjadi lebih gembira.
+ ~Warna pejabat menjadi pudar.
+}
+
+::D2_Q43:: "Data Custodian" bertanggungjawab untuk? {
+ =Melaksanakan kawalan teknikal dan melakukan sandaran data. #Tepat.
+ ~Menentukan siapa yang boleh melihat data.
+ ~Menandatangani kontrak pembelian.
+ ~Membayar bil internet.
+}
+
+::D2_Q44:: Apakah tujuan "Termination Policy"? {
+ =Memastikan akses ditarik balik dengan segera apabila pekerja berhenti. #Tepat.
+ ~Memberikan hadiah kepada pekerja yang berhenti.
+ ~Menganjurkan majlis makan malam.
+ ~Memadam semua e-mel syarikat.
+}
+
+::D2_Q45:: "Maturity Level 5" dalam model kematangan proses bermaksud? {
+ =Proses sentiasa diperbaiki secara berterusan (Optimizing). #Tepat.
+ ~Proses tidak wujud langsung.
+ ~Proses hanya dilakukan apabila perlu.
+ ~Proses didokumentasikan tetapi tidak diikuti.
+}
+
+::D2_Q46:: Apakah risiko utama struktur organisasi IT yang terlalu rata (flat)? {
+ =Kurangnya pengawasan dan kawalan pengurusan. #Tepat.
+ ~Terlalu banyak pengurus.
+ ~Komunikasi menjadi terlalu lambat.
+ ~Kos gaji menjadi terlalu tinggi.
+}
+
+::D2_Q47:: "Social Engineering" paling berkesan dicegah melalui? {
+ =Pendidikan dan kesedaran pengguna. #Tepat.
+ ~Firewall yang mahal.
+ ~Antivirus versi terbaru.
+ ~Mengunci semua pintu.
+}
+
+::D2_Q48:: "Insurance" adalah contoh strategi? {
+ =Pemindahan Risiko (Risk Transfer). #Tepat.
+ ~Penghindaran Risiko.
+ ~Mitigasi Risiko.
+ ~Penerimaan Risiko.
+}
+
+::D2_Q49:: "Project Steering Committee" harus dianggotai oleh? {
+ =Pemilik perniagaan, pihak pengurusan IT, dan pihak berkepentingan utama. #Tepat.
+ ~Hanya pengaturcara junior.
+ ~Hanya pekerja dari jabatan pemasaran.
+ ~Hanya vendor luar.
+}
+
+::D2_Q50:: "Incident Response Plan" (IRP) bertujuan untuk? {
+ =Menyediakan langkah-langkah untuk menangani dan mengurangkan kesan serangan siber. #Tepat.
+ ~Menjual perisian keselamatan.
+ ~Menghukum pekerja yang cuai.
+ ~Mengira kos elektrik selepas serangan.
+}
+
+::D2_Q51:: Apakah fungsi "Log Monitoring"? {
+ =Mengesan aktiviti luar biasa atau cubaan akses tanpa kebenaran. #Tepat.
+ ~Menambah kapasiti storan.
+ ~Mencantikkan paparan skrin.
+ ~Mengurangkan habuk di server.
+}
+
+::D2_Q52:: "Ethics" dalam IT adalah penting kerana? {
+ =Kakitangan IT mempunyai akses kepada maklumat sensitif dan berkuasa tinggi. #Tepat.
+ ~Ia membantu komputer berfungsi lebih lama.
+ ~Ia menjamin gaji yang lebih tinggi.
+ ~Ia diperlukan untuk lulus peperiksaan sekolah.
+}
+
+::D2_Q53:: Apakah kegunaan "Internal Audit" dalam Domain 2? {
+ =Memberikan jaminan bebas bahawa kawalan tadbir urus berfungsi. #Tepat.
+ ~Menetapkan harga produk.
+ ~Merekrut pekerja baru.
+ ~Mencuci pejabat IT.
+}
+
+::D2_Q54:: "Business Continuity Planning" (BCP) adalah sebahagian daripada? {
+ =Tadbir Urus dan Pengurusan Risiko. #Tepat.
+ ~Pengurusan Kewangan sahaja.
+ ~Strategi Pemasaran.
+ ~Pembangunan Perisian.
+}
+
+::D2_Q55:: Manakah antara berikut merupakan petanda tadbir urus data yang baik? {
+ =Data mempunyai definisi yang jelas dan konsisten di seluruh organisasi. #Tepat.
+ ~Data disimpan dalam ribuan fail Excel yang berbeza.
+ ~Tiada siapa tahu siapa pemilik data.
+ ~Data hanya boleh diakses oleh CEO.
+}
+
+::D2_Q56:: "Risk Mitigation" melibatkan? {
+ =Melaksanakan kawalan untuk mengurangkan kemungkinan atau impak risiko. #Tepat.
+ ~Mengabaikan risiko tersebut.
+ ~Menutup perniagaan.
+ ~Menyalahkan orang lain.
+}
+
+::D2_Q57:: Apakah risiko utama penggunaan peranti peribadi untuk kerja (BYOD)? {
+ =Kesukaran untuk mengawal dan melindungi data syarikat di peranti luar. #Tepat.
+ ~Skrin telefon pekerja terlalu kecil.
+ ~Bateri telefon pekerja cepat habis.
+ ~Pekerja akan menghantar banyak mesej peribadi.
+}
+
+::D2_Q58:: "Value Delivery" dalam tadbir urus IT bermaksud? {
+ =IT memberikan manfaat yang dijanjikan terhadap strategi organisasi. #Tepat.
+ ~IT sentiasa membeli barang yang paling mahal.
+ ~IT memberikan hadiah kepada semua pekerja.
+ ~IT menyiapkan kerja dalam masa satu jam.
+}
+
+::D2_Q59:: Antara berikut, manakah yang paling membantu dalam mengurus perubahan organisasi? {
+ =Komunikasi yang jelas dan penglibatan pihak berkepentingan. #Tepat.
+ ~Memaksa pekerja melakukan kerja baru tanpa penjelasan.
+ ~Mengancam untuk memecat pekerja.
+ ~Memberikan coklat kepada semua orang.
+}
+
+::D2_Q60:: "Change Advisory Board" (CAB) bertanggungjawab untuk? {
+ =Menilai dan meluluskan perubahan kepada persekitaran pengeluaran (production). #Tepat.
+ ~Menulis manual pengguna.
+ ~Memasang perabot pejabat.
+ ~Menempah tiket penerbangan.
+}
+
+::D2_Q61:: "Key Risk Indicators" (KRI) membantu organisasi untuk? {
+ =Memberi amaran awal tentang peningkatan pendedahan risiko. #Tepat.
+ ~Mengira jumlah ralat dalam kod.
+ ~Menentukan bila masa untuk makan tengah hari.
+ ~Membeli peralatan sukan untuk pekerja.
+}
+
+::D2_Q62:: "Audit Committee" harus terdiri daripada? {
+ =Ahli Lembaga Pengarah bukan eksekutif yang bebas. #Tepat.
+ ~Semua kakitangan IT.
+ ~Vendor syarikat.
+ ~Pelanggan syarikat.
+}
+
+::D2_Q63:: "Strategic Alignment" IT-Perniagaan paling baik dicapai apabila? {
+ =CIO dan CEO bekerjasama rapat dalam perancangan strategik. #Tepat.
+ ~IT mempunyai bangunan sendiri yang jauh dari perniagaan.
+ ~IT hanya bercakap dengan vendor.
+ ~Perniagaan tidak tahu apa yang IT lakukan.
+}
+
+::D2_Q64:: Apakah tujuan "Exit Interview" bagi kakitangan IT? {
+ =Mengenalpasti potensi risiko keselamatan dan mendapatkan maklum balas penambahbaikan. #Tepat.
+ ~Meminta pekerja tersebut belanja makan.
+ ~Menghalang pekerja tersebut daripada mendapat kerja baru.
+ ~Mengambil gambar kenang-kenangan sahaja.
+}
+
+::D2_Q65:: "Control Self-Assessment" (CSA) menggalakkan? {
+ =Pemilik proses untuk mengambil tanggungjawab terhadap kawalan mereka. #Tepat.
+ ~Juruaudit untuk melakukan semua kerja.
+ ~Pengurus untuk meletak jawatan.
+ ~Vendor untuk menaikkan harga.
+}
+
+::D2_Q66:: "IT Balanced Scorecard" biasanya merangkumi perspektif berikut kecuali? {
+ ~Perspektif Korporat/Kewangan.
+ ~Perspektif Pelanggan/Pengguna.
+ ~Perspektif Kecekapan Operasi.
+ =Perspektif Kehidupan Peribadi Pekerja. #Tepat.
+}
+
+::D2_Q67:: Apakah risiko utama ketiadaan pengurusan konfigurasi (CMDB)? {
+ =Kesukaran untuk memahami kesan perubahan atau kegagalan sistem. #Tepat.
+ ~Komputer akan meletup.
+ ~Pekerja akan lupa nama server.
+ ~Tiada risiko langsung.
+}
+
+::D2_Q68:: "Due Diligence" dalam pemilihan vendor bermaksud? {
+ =Melakukan penyiasatan menyeluruh terhadap latar belakang dan keupayaan vendor. #Tepat.
+ ~Membayar vendor sebelum kerja bermula.
+ ~Mempercayai kata-kata vendor sepenuhnya.
+ ~Memilih vendor yang paling popular di media sosial.
+}
+
+::D2_Q69:: Manakah antara berikut merupakan contoh kawalan detektif (detective)? {
+ =Semakan laporan pengecualian (exception reports). #Tepat.
+ ~Kata laluan yang kuat.
+ ~Latihan kesedaran.
+ ~Firewall.
+}
+
+::D2_Q70:: "IT Governance Framework" seperti COBIT menyediakan? {
+ =Bahasa dan struktur yang sama untuk komunikasi antara IT dan perniagaan. #Tepat.
+ ~Senarai harga perkakasan komputer.
+ ~Kod sumber untuk sistem operasi.
+ ~Panduan cara memasang kabel internet.
+}
+
+::D2_Q71:: Apakah kesan ketiadaan penglibatan pengurusan atasan dalam IT? {
+ =Projek IT mungkin tidak mendapat sumber yang mencukupi atau sokongan organisasi. #Tepat.
+ ~IT akan menjadi jabatan paling berkuasa.
+ ~Semua komputer akan berfungsi dengan sempurna.
+ ~Bajet IT akan menjadi tidak terhad.
+}
+
+::D2_Q72:: "Data Privacy Policy" bertujuan untuk? {
+ =Melindungi maklumat peribadi mengikut undang-undang dan peraturan. #Tepat.
+ ~Menyebarkan maklumat pekerja ke internet.
+ ~Menyimpan data buat selama-lamanya.
+ ~Menjual data pelanggan kepada pesaing.
+}
+
+::D2_Q73:: Apakah langkah terbaik untuk menangani risiko kakitangan tunggal (Single Person Dependency)? {
+ =Latihan silang (Cross-training) dan dokumentasi prosedur. #Tepat.
+ ~Membiarkan pekerja tersebut bekerja 24 jam.
+ ~Membayar gaji yang sangat tinggi.
+ ~Menghalang pekerja tersebut daripada bercuti.
+}
+
+::D2_Q74:: "Internal Controls" harus dinilai berdasarkan? {
+ =Kos pelaksanaan berbanding manfaat pengurangan risiko. #Tepat.
+ ~Kecantikan reka bentuk kawalan.
+ ~Bilangan halaman dokumentasi.
+ ~Pendapat pekerja paling junior.
+}
+
+::D2_Q75:: "Audit Charter" memberikan? {
+ =Autoriti kepada fungsi audit untuk mengakses maklumat dan melakukan audit. #Tepat.
+ ~Panduan cara membaiki komputer.
+ ~Senarai cuti umum untuk juruaudit.
+ ~Hak untuk memecat sesiapa sahaja.
+}
+
+::D2_Q76:: Apakah risiko utama penggunaan perisian "Open Source" dalam perusahaan? {
+ =Kurangnya sokongan teknikal rasmi dan potensi isu lesen. #Tepat.
+ ~Ia terlalu mahal untuk dibeli.
+ ~Ia tidak boleh dijalankan di komputer riba.
+ ~Ia hanya boleh digunakan oleh pelajar.
+}
+
+::D2_Q77:: "Physical Security" adalah sebahagian daripada tadbir urus IT kerana? {
+ =Kegagalan keselamatan fizikal boleh menjejaskan ketersediaan dan integriti data. #Tepat.
+ ~Ia membantu mengurangkan habuk.
+ ~Ia mencantikkan pejabat.
+ ~Ia menjimatkan penggunaan air.
+}
+
+::D2_Q78:: "Vendor Lock-in" berlaku apabila? {
+ =Organisasi menjadi terlalu bergantung kepada satu vendor sehingga sukar untuk bertukar. #Tepat.
+ ~Vendor mengunci pintu pejabat organisasi.
+ ~Organisasi membeli semua saham vendor.
+ ~Pekerja organisasi berkahwin dengan pekerja vendor.
+}
+
+::D2_Q79:: "IT Compliance" merujuk kepada? {
+ =Mematuhi undang-undang, peraturan, dan standard industri yang berkaitan IT. #Tepat.
+ ~Mematuhi arahan semua pekerja.
+ ~Memastikan semua komputer berwarna sama.
+ ~Membayar bil elektrik tepat pada masanya.
+}
+
+::D2_Q80:: Apakah kegunaan "Heat Map" dalam pengurusan risiko? {
+ =Memberikan gambaran visual tentang kedudukan risiko berdasarkan kemungkinan dan impak. #Tepat.
+ ~Mengukur suhu di bilik server.
+ ~Menunjukkan lokasi kedai makanan.
+ ~Mengira jumlah pelawat ke laman web.
+}
+
+::D2_Q81:: "Succession Planning" adalah penting untuk? {
+ =Memastikan kesinambungan kepimpinan apabila jawatan utama kosong. #Tepat.
+ ~Merancang majlis hari jadi.
+ ~Menentukan siapa yang mendapat meja baru.
+ ~Mengira jumlah komputer baru yang diperlukan.
+}
+
+::D2_Q82:: Manakah antara berikut merupakan petanda pengurusan projek IT yang baik? {
+ =Projek mempunyai objektif, bajet, dan jadual yang jelas serta dipantau. #Tepat.
+ ~Projek disiapkan tanpa sebarang dokumentasi.
+ ~Tiada siapa tahu bila projek akan tamat.
+ ~Bajet projek berubah-ubah setiap minggu.
+}
+
+::D2_Q83:: "Quality Management System" (QMS) fokus kepada? {
+ =Kepuasan pelanggan dan penambahbaikan proses secara berterusan. #Tepat.
+ ~Hanya mengurangkan kos pengeluaran.
+ ~Meningkatkan kelajuan mesin.
+ ~Menambah bilangan pengurus.
+}
+
+::D2_Q84:: Apakah risiko utama ketiadaan dasar klasifikasi data? {
+ =Data sensitif mungkin tidak dilindungi dengan secukupnya manakala data tidak sensitif dilindungi secara berlebihan. #Tepat.
+ ~Data akan hilang secara automatik.
+ ~Semua data akan menjadi sulit.
+ ~Saiz pangkalan data akan mengecil.
+}
+
+::D2_Q85:: "Risk Acceptance" adalah sesuai apabila? {
+ =Kos mitigasi melebihi kesan potensi kerugian. #Tepat.
+ ~Juruaudit malas untuk melakukan kerja.
+ ~Pihak pengurusan tidak faham tentang risiko.
+ ~Risiko tersebut sangat tinggi dan kritikal.
+}
+
+::D2_Q86:: Apakah peranan "Service Desk" dalam pengurusan IT? {
+ =Menjadi titik hubungan tunggal untuk pengguna melaporkan masalah IT. #Tepat.
+ ~Menjual perkakasan komputer.
+ ~Membina laman web syarikat.
+ ~Menghantar e-mel promosi.
+}
+
+::D2_Q87:: "Standard Operating Procedures" (SOP) memastikan? {
+ =Tugas dilakukan secara konsisten dan mengikut amalan terbaik. #Tepat.
+ ~Pekerja boleh melakukan kerja sesuka hati.
+ ~Tiada kerja dilakukan di pejabat.
+ ~Gaji pekerja dibayar dua kali sebulan.
+}
+
+::D2_Q88:: Apakah risiko utama ketiadaan inventori aset IT? {
+ =Kesukaran untuk mengesan peranti yang hilang atau tidak dilindungi. #Tepat.
+ ~Komputer akan menjadi lebih berat.
+ ~Pekerja akan membawa pulang monitor.
+ ~Bil elektrik akan meningkat.
+}
+
+::D2_Q89:: "Disaster Recovery Plan" (DRP) fokus terutamanya kepada? {
+ =Pemulihan infrastruktur teknikal selepas bencana. #Tepat.
+ ~Menyelamatkan semua perabot pejabat.
+ ~Membayar pampasan kepada pelanggan.
+ ~Mencari bangunan pejabat baru.
+}
+
+::D2_Q90:: Manakah antara berikut merupakan petunjuk tadbir urus IT yang lemah? {
+ =Projek IT utama sering gagal atau melangkaui bajet secara drastik. #Tepat.
+ ~IT menggunakan perisian versi lama sedikit.
+ ~Pekerja IT memakai baju kasual.
+ ~Tiada mesyuarat setiap hari.
+}
+
+::D2_Q91:: "IT Steering Committee" harus bermesyuarat? {
+ =Secara berkala (contohnya setiap suku tahun) untuk memantau kemajuan strategi. #Tepat.
+ ~Hanya setahun sekali.
+ ~Hanya apabila sistem rosak.
+ ~Setiap jam tanpa henti.
+}
+
+::D2_Q92:: "Information Security Policy" harus diluluskan oleh? {
+ =Pihak pengurusan atasan atau Lembaga Pengarah. #Tepat.
+ ~Pekerja paling junior.
+ ~Vendor luar.
+ ~Pelanggan syarikat.
+}
+
+::D2_Q93:: "Asset Disposal Policy" adalah penting untuk? {
+ =Memastikan data sulit dipadamkan secara kekal sebelum perkakasan dibuang atau dijual. #Tepat.
+ ~Memastikan sampah dibuang ke tong kitar semula.
+ ~Menjimatkan ruang stor.
+ ~Memberi komputer lama kepada kawan-kawan.
+}
+
+::D2_Q94:: "Cloud Governance" melibatkan? {
+ =Menguruskan risiko dan kawalan bagi perkhidmatan awan pihak ketiga. #Tepat.
+ ~Memantau cuaca setiap hari.
+ ~Membina kapal terbang.
+ ~Mengira jumlah hujan yang turun.
+}
+
+::D2_Q95:: Apakah risiko "Privileged User" (seperti Admin)? {
+ =Mereka mempunyai akses yang luas yang boleh disalahgunakan untuk memintas kawalan. #Tepat.
+ ~Mereka mempunyai gaji yang terlalu tinggi.
+ ~Mereka sering bercuti lama.
+ ~Mereka menggunakan komputer yang terlalu besar.
+}
+
+::D2_Q96:: "Segregation of Duties" boleh dikompenasikan dengan? {
+ =Kawalan pemantauan yang ketat (seperti semakan log). #Tepat.
+ ~Memberikan semua orang akses admin.
+ ~Menghapuskan semua log sistem.
+ ~Menambah bilangan pekerja tanpa pengawasan.
+}
+
+::D2_Q97:: "IT Strategic Plan" harus meliputi tempoh? {
+ =3 hingga 5 tahun, diselaraskan dengan pelan perniagaan. #Tepat.
+ ~Hanya satu minggu akan datang.
+ ~100 tahun akan datang.
+ ~Hanya sehingga hujung bulan ini.
+}
+
+::D2_Q98:: Apakah matlamat "Problem Management"? {
+ =Mengenalpasti dan menghapuskan punca akar bagi insiden yang berulang. #Tepat.
+ ~Menutup tiket bantuan secepat mungkin.
+ ~Menyalahkan vendor atas semua masalah.
+ ~Mengabaikan masalah kecil.
+}
+
+::D2_Q99:: "Legal and Regulatory Requirements" harus dikenal pasti supaya? {
+ =Organisasi mengelakkan denda dan liabiliti undang-undang. #Tepat.
+ ~Organisasi boleh menaikkan harga produk.
+ ~Organisasi boleh menutup semua cawangan.
+ ~Organisasi boleh memecat semua peguam.
+}
+
+::D2_Q100:: Penilaian keberkesanan Tadbir Urus IT harus dilakukan secara? {
+ =Berkala dan bebas (contohnya melalui audit). #Tepat.
+ ~Hanya sekali seumur hidup syarikat.
+ ~Secara rahsia tanpa diketahui sesiapa.
+ ~Hanya oleh pekerja paling baru.
+}

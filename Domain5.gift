@@ -1,0 +1,701 @@
+$CATEGORY: CISA/Domain5/Full
+
+::D5_Q1:: Apakah matlamat utama keselamatan maklumat? {
+ =Melindungi kerahsiaan, integriti, dan ketersediaan data (CIA Triad). #Tepat.
+ ~Memastikan semua komputer menggunakan perisian yang sama.
+ ~Menghalang pengguna daripada mengakses internet.
+ ~Membeli peralatan keselamatan yang paling mahal.
+}
+
+::D5_Q2:: "Confidentiality" memastikan bahawa maklumat? {
+ =Hanya boleh diakses oleh pihak yang mempunyai kebenaran. #Tepat.
+ ~Tidak diubah suai semasa penghantaran.
+ ~Sentiasa tersedia apabila diperlukan.
+ ~Disimpan dalam format yang boleh dibaca oleh semua orang.
+}
+
+::D5_Q3:: "Integrity" dalam keselamatan maklumat bermaksud? {
+ =Data adalah tepat, lengkap, dan tidak diubah tanpa kebenaran. #Tepat.
+ ~Data tidak boleh dibaca oleh pesaing.
+ ~Sistem tidak pernah mengalami kegagalan.
+ ~Pekerja sentiasa bercakap benar.
+}
+
+::D5_Q4:: Antara berikut, manakah yang merupakan kawalan akses logik? {
+ =Penggunaan kata laluan dan biometrik untuk log masuk sistem. #Tepat.
+ ~Pagar elektrik di sekeliling bangunan.
+ ~Pengawal keselamatan di pintu masuk.
+ ~Sistem pemadam api di bilik server.
+}
+
+::D5_Q5:: "Principle of Least Privilege" bermaksud pengguna harus diberikan? {
+ =Hanya akses minimum yang diperlukan untuk menjalankan tugas mereka. #Tepat.
+ ~Akses penuh kepada semua sistem untuk memudahkan kerja.
+ ~Akses berdasarkan pangkat senioriti sahaja.
+ ~Akses kepada data rakan sekerja sebagai sandaran.
+}
+
+::D5_Q6:: "Two-Factor Authentication" (2FA) biasanya melibatkan kombinasi? {
+ =Sesuatu yang anda tahu (kata laluan) dan sesuatu yang anda miliki (token/telefon). #Tepat.
+ ~Dua kata laluan yang berbeza.
+ ~Dua orang pengguna log masuk serentak.
+ ~Kata laluan yang ditukar dua kali sehari.
+}
+
+::D5_Q7:: Manakah antara berikut merupakan biometrik yang paling unik dan sukar dipalsukan? {
+ =Imbasan iris atau retina. #Tepat.
+ ~Tandatangan tangan.
+ ~Pengecaman suara.
+ ~Bentuk muka.
+}
+
+::D5_Q8:: "Role-Based Access Control" (RBAC) memberikan akses berdasarkan? {
+ =Fungsi atau jawatan pengguna dalam organisasi. #Tepat.
+ ~Nama pertama pengguna.
+ ~Lokasi rumah pengguna.
+ ~Jenama komputer yang digunakan.
+}
+
+::D5_Q9:: Apakah risiko terbesar akaun pengguna yang tidak aktif (dormant accounts)? {
+ =Ia boleh dieksploitasi oleh penyerang tanpa disedari oleh pengurusan. #Tepat.
+ ~Ia memenuhi ruang pangkalan data.
+ ~Ia menyebabkan sistem menjadi perlahan.
+ ~Ia meningkatkan bil elektrik.
+}
+
+::D5_Q10:: "Privileged Access Management" (PAM) fokus kepada kawalan akses untuk? {
+ =Pentadbir sistem (Admins) dan pengguna berkuasa tinggi. #Tepat.
+ ~Pekerja sambilan dan pelawat.
+ ~Pelanggan luaran sahaja.
+ ~Kakitangan pemasaran.
+}
+
+::D5_Q11:: "Encryption" pada data yang disimpan (Data at Rest) bertujuan untuk? {
+ =Melindungi kerahsiaan data jika peranti storan dicuri atau dicapai tanpa izin. #Tepat.
+ ~Mempercepatkan proses bacaan data.
+ ~Mengurangkan saiz fail secara drastik.
+ ~Menghalang virus daripada menjangkiti fail.
+}
+
+::D5_Q12:: "Symmetric Encryption" menggunakan? {
+ =Satu kunci yang sama untuk enkripsi dan dekripsi. #Tepat.
+ ~Dua kunci yang berbeza (awam dan peribadi).
+ ~Tiada kunci diperlukan.
+ ~Kunci yang berubah setiap saat secara rawak.
+}
+
+::D5_Q13:: "Asymmetric Encryption" menggunakan? {
+ =Kunci awam (Public Key) untuk enkripsi dan kunci peribadi (Private Key) untuk dekripsi. #Tepat.
+ ~Kunci yang sama untuk semua orang.
+ ~Hanya kunci fizikal seperti mangga.
+ ~Kod bar untuk menyahkod data.
+}
+
+::D5_Q14:: "Digital Signature" memberikan jaminan mengenai? {
+ =Keaslian (authenticity) dan ketidakboleh sangkalan (non-repudiation). #Tepat.
+ ~Kelajuan penghantaran e-mel.
+ ~Kecantikan fon tulisan dalam dokumen.
+ ~Saiz fail yang dihantar.
+}
+
+::D5_Q15:: Apakah fungsi "Firewall" dalam rangkaian? {
+ =Menapis trafik masuk dan keluar berdasarkan peraturan keselamatan yang ditetapkan. #Tepat.
+ ~Memadamkan api jika bilik server terbakar.
+ ~Meningkatkan kelajuan internet organisasi.
+ ~Menyimpan sandaran data secara automatik.
+}
+
+::D5_Q16:: "Intrusion Detection System" (IDS) berfungsi untuk? {
+ =Mengesan dan memberi amaran tentang aktiviti mencurigakan atau serangan. #Tepat.
+ ~Menghalang serangan secara aktif dan memutuskan talian.
+ ~Menulis kod program yang selamat.
+ ~Membasuh virus dari cakera keras.
+}
+
+::D5_Q17:: "Intrusion Prevention System" (IPS) berbeza dengan IDS kerana ia? {
+ =Boleh mengambil tindakan automatik untuk menyekat serangan yang dikesan. #Tepat.
+ ~Hanya boleh melihat tanpa bertindak.
+ ~Lebih murah dan mudah dipasang.
+ ~Tidak memerlukan sebarang peraturan.
+}
+
+::D5_Q18:: "Virtual Private Network" (VPN) digunakan untuk? {
+ =Menyediakan talian komunikasi yang selamat dan terenkripsi merentasi rangkaian awam. #Tepat.
+ ~Meningkatkan jumlah kuota internet.
+ ~Membolehkan pengguna bermain permainan video di pejabat.
+ ~Menyembunyikan lokasi fizikal server daripada juruaudit.
+}
+
+::D5_Q19:: Apakah risiko serangan "Man-in-the-Middle" (MitM)? {
+ =Penyerang memintas dan mungkin mengubah komunikasi antara dua pihak tanpa disedari. #Tepat.
+ ~Penyerang mencuri komputer secara fizikal.
+ ~Penyerang berdiri di tengah-tengah pejabat.
+ ~Penyerang memadamkan semua log sistem.
+}
+
+::D5_Q20:: "Denial of Service" (DoS) attack bertujuan untuk? {
+ =Melumpuhkan ketersediaan sistem dengan membanjiri trafik sehingga ia gagal berfungsi. #Tepat.
+ ~Mencuri kata laluan pengguna.
+ ~Mengubah rekod kewangan dalam pangkalan data.
+ ~Membaca e-mel sulit pihak pengurusan.
+}
+
+::D5_Q21:: "Distributed Denial of Service" (DDoS) menggunakan? {
+ =Banyak komputer (botnet) untuk menyerang satu sasaran secara serentak. #Tepat.
+ ~Satu komputer yang sangat berkuasa.
+ ~Kabel rangkaian yang sangat panjang.
+ ~Virus yang hanya menyerang pada waktu malam.
+}
+
+::D5_Q22:: Apakah itu "Phishing"? {
+ =Percubaan mendapatkan maklumat sensitif melalui e-mel palsu yang nampak sah. #Tepat.
+ ~Hobi memancing ikan di masa lapang.
+ ~Teknik memasang kabel di bawah air.
+ ~Cara untuk meningkatkan kelajuan server.
+}
+
+::D5_Q23:: "Social Engineering" mengeksploitasi kelemahan dalam? {
+ =Sifat manusia (seperti kepercayaan dan keinginan untuk membantu). #Tepat.
+ ~Kod sumber perisian operasi.
+ ~Perkakasan firewall yang lama.
+ ~Protokol enkripsi yang lemah.
+}
+
+::D5_Q24:: "Malware" yang menyulitkan data pengguna dan meminta bayaran dipanggil? {
+ =Ransomware #Tepat.
+ ~Spyware
+ ~Adware
+ ~Trojan Horse
+}
+
+::D5_Q25:: Apakah kegunaan "Antivirus Software"? {
+ =Mengesan, menyekat, dan membuang perisian hasad (malicious software). #Tepat.
+ ~Mempercepatkan masa but (boot) komputer.
+ ~Membersihkan habuk di dalam CPU.
+ ~Meningkatkan resolusi skrin monitor.
+}
+
+::D5_Q26:: "Honey Pot" dalam keselamatan maklumat digunakan sebagai? {
+ =Sistem umpan untuk menarik penyerang supaya teknik mereka boleh dikaji. #Tepat.
+ ~Simpanan madu untuk pekerja IT.
+ ~Alat untuk menapis e-mel spam secara besar-besaran.
+ ~Server sandaran untuk data kewangan.
+}
+
+::D5_Q27:: "Zero-day Vulnerability" merujuk kepada kelemahan yang? {
+ =Belum diketahui oleh vendor dan belum mempunyai tampalan (patch). #Tepat.
+ ~Sudah wujud selama sifar hari sahaja.
+ ~Hanya berlaku pada waktu sifar jam (tengah malam).
+ ~Boleh diperbaiki dalam masa sifar saat.
+}
+
+::D5_Q28:: Apakah risiko penggunaan "Default Passwords" pada peralatan rangkaian? {
+ =Ia mudah diteka oleh penyerang kerana maklumat tersebut tersedia secara awam. #Tepat.
+ ~Ia menyebabkan peralatan menjadi panas.
+ ~Ia memerlukan memori yang lebih besar.
+ ~Ia dilarang oleh pembekal elektrik.
+}
+
+::D5_Q29:: "Demilitarized Zone" (DMZ) dalam rangkaian digunakan untuk? {
+ =Menempatkan perkhidmatan awam (seperti web server) secara berasingan dari rangkaian dalaman. #Tepat.
+ ~Kawasan tempat pekerja berehat dan merokok.
+ ~Lokasi penyimpanan kaset sandaran.
+ ~Bilik mesyuarat untuk pihak tentera.
+}
+
+::D5_Q30:: "Network Segmentation" membantu dalam? {
+ =Mengehadkan pergerakan penyerang (lateral movement) di dalam rangkaian jika satu bahagian ditembusi. #Tepat.
+ ~Meningkatkan kos pembelian kabel.
+ ~Menjadikan pengurusan rangkaian lebih kompleks tanpa sebab.
+ ~Menyambungkan semua komputer ke satu hub sahaja.
+}
+
+::D5_Q31:: "Wireless Security" yang menggunakan WPA3 adalah lebih selamat daripada WEP kerana? {
+ =Ia mempunyai enkripsi yang lebih kuat dan mekanisme pengesahan yang lebih baik. #Tepat.
+ ~Ia menggunakan gelombang radio yang lebih pendek.
+ ~Ia tidak memerlukan kata laluan.
+ ~Ia hanya boleh digunakan di dalam bilik gelap.
+}
+
+::D5_Q32:: Apakah risiko "Rogue Access Point"? {
+ =Titik akses tanpa kebenaran yang dipasang pada rangkaian organisasi, memintas kawalan keselamatan. #Tepat.
+ ~Titik akses yang sangat laju.
+ ~Titik akses yang berwarna merah.
+ ~Titik akses yang diletakkan di luar bangunan.
+}
+
+::D5_Q33:: "Data Loss Prevention" (DLP) bertujuan untuk? {
+ =Mengesan dan menghalang data sensitif daripada keluar dari organisasi secara tidak sah. #Tepat.
+ ~Mencari fail yang telah hilang dalam cakera keras.
+ ~Menambah kapasiti storan pangkalan data.
+ ~Memastikan tiada pekerja yang berhenti kerja.
+}
+
+::D5_Q34:: "Mobile Device Management" (MDM) digunakan untuk? {
+ =Mengurus dan mengawal keselamatan peranti mudah alih syarikat atau BYOD. #Tepat.
+ ~Membeli telefon bimbit baru untuk semua pekerja.
+ ~Mengira jumlah panggilan telefon pekerja.
+ ~Mengecas bateri telefon secara automatik.
+}
+
+::D5_Q35:: Apakah fungsi "Penetration Testing"? {
+ =Simulasi serangan sebenar untuk mengenalpasti dan menguji kelemahan sistem. #Tepat.
+ ~Menulis manual prosedur keselamatan.
+ ~Mengira jumlah pengawal keselamatan.
+ ~Memasang kunci mangga pada pintu.
+}
+
+::D5_Q36:: "Vulnerability Assessment" berbeza dengan Penetration Testing kerana ia? {
+ =Fokus kepada mengenalpasti senarai kelemahan tanpa melakukan eksploitasi penuh. #Tepat.
+ ~Lebih berbahaya kepada sistem.
+ ~Hanya dilakukan oleh pihak polis.
+ ~Memerlukan masa bertahun-tahun untuk siap.
+}
+
+::D5_Q37:: Manakah antara berikut merupakan kawalan fizikal? {
+ =CCTV dan pengimbas kad akses di pintu masuk. #Tepat.
+ ~Enkripsi fail Excel.
+ ~Pertukaran kata laluan setiap 90 hari.
+ ~Latihan kesedaran e-mel phishing.
+}
+
+::D5_Q38:: "Shoulder Surfing" adalah teknik di mana penyerang? {
+ =Memerhatikan pengguna memasukkan maklumat sensitif (seperti PIN atau kata laluan) secara fizikal. #Tepat.
+ ~Melompat di atas bahu pengguna.
+ ~Menggunakan dron untuk melihat ke dalam pejabat.
+ ~Membaca e-mel dari jarak jauh melalui internet.
+}
+
+::D5_Q39:: Apakah tujuan "Clean Desk Policy"? {
+ =Memastikan maklumat sensitif tidak ditinggalkan terdedah di atas meja pejabat. #Tepat.
+ ~Memastikan pejabat nampak cantik untuk pelawat.
+ ~Mengurangkan penggunaan kertas di pejabat.
+ ~Meningkatkan kecekapan pekerja mencuci meja.
+}
+
+::D5_Q40:: "Tailgating" dalam keselamatan fizikal berlaku apabila? {
+ =Seseorang mengikut orang yang sah masuk melalui pintu berkunci tanpa mengimbas kad sendiri. #Tepat.
+ ~Seseorang memakai pakaian yang sama dengan rakan sekerja.
+ ~Seseorang meletakkan kenderaan terlalu rapat dengan bangunan.
+ ~Seseorang memanjat pagar bangunan.
+}
+
+::D5_Q41:: "Security Awareness Training" harus diberikan kepada? {
+ =Semua kakitangan, termasuk pengurusan atasan dan kontraktor. #Tepat.
+ ~Hanya kakitangan jabatan IT sahaja.
+ ~Hanya pekerja baru semasa hari pertama kerja.
+ ~Hanya pengawal keselamatan.
+}
+
+::D5_Q42:: Apakah langkah pertama yang perlu diambil jika berlaku insiden kebocoran data? {
+ =Mengenalpasti dan menyekat (contain) punca kebocoran untuk mengelakkan kehilangan lanjut. #Tepat.
+ ~Menghubungi stesen televisyen dengan segera.
+ ~Memecat semua pekerja di jabatan IT.
+ ~Memadamkan semua rekod pelanggan.
+}
+
+::D5_Q43:: "Data Classification" sangat penting untuk? {
+ =Menentukan tahap kawalan keselamatan yang sesuai berdasarkan nilai dan sensitiviti data. #Tepat.
+ ~Menyusun fail mengikut abjad di dalam komputer.
+ ~Memastikan semua data disimpan dalam satu folder besar.
+ ~Mengurangkan jumlah data yang disimpan.
+}
+
+::D5_Q44:: "Public Key Infrastructure" (PKI) menguruskan? {
+ =Sijil digital dan pasangan kunci untuk komunikasi selamat. #Tepat.
+ ~Kunci fizikal untuk semua pintu pejabat.
+ ~Senarai nama semua pelawat bangunan.
+ ~Peta lokasi semua pusat data di dunia.
+}
+
+::D5_Q45:: "Certificate Authority" (CA) bertanggungjawab untuk? {
+ =Mengesahkan identiti dan mengeluarkan sijil digital kepada entiti. #Tepat.
+ ~Membayar gaji juruaudit.
+ ~Membaiki komputer yang rosak.
+ ~Menjual perisian antivirus.
+}
+
+::D5_Q46:: Apakah risiko utama penggunaan "Internet of Things" (IoT) dalam syarikat? {
+ =Peranti IoT sering mempunyai kawalan keselamatan yang lemah dan sukar dikemaskini. #Tepat.
+ ~Peranti IoT menggunakan terlalu banyak elektrik.
+ ~Peranti IoT terlalu kecil untuk dilihat.
+ ~Peranti IoT hanya berfungsi dengan sambungan Bluetooth.
+}
+
+::D5_Q47:: "Patch Management" adalah kritikal untuk? {
+ =Memastikan kelemahan perisian yang diketahui diperbaiki dengan segera. #Tepat.
+ ~Menambah logo baru syarikat dalam aplikasi.
+ ~Menukar bahasa antara muka pengguna.
+ ~Mengurangkan harga lesen perisian.
+}
+
+::D5_Q48:: "Security Information and Event Management" (SIEM) membantu dengan? {
+ =Mengumpul dan menganalisis log dari pelbagai sumber untuk mengesan ancaman secara berpusat. #Tepat.
+ ~Menulis laporan kewangan tahunan.
+ ~Mengatur jadual kerja kakitangan IT.
+ ~Menyimpan gambar profil pekerja.
+}
+
+::D5_Q49:: Apakah peranan "Chief Information Security Officer" (CISO)? {
+ =Menetapkan strategi dan tadbir urus keselamatan maklumat organisasi. #Tepat.
+ ~Memasang kabel rangkaian di pejabat.
+ ~Memastikan pencetak sentiasa mempunyai dakwat.
+ ~Menandatangani semua cek bayaran vendor.
+}
+
+::D5_Q50:: "Incident Response Plan" (IRP) harus diuji secara berkala untuk? {
+ =Memastikan pasukan respons bersedia dan pelan tersebut masih berkesan. #Tepat.
+ ~Menghabiskan bajet tahunan jabatan keselamatan.
+ ~Menghiburkan kakitangan dengan latihan simulasi.
+ ~Menunjuk-nunjuk kepada juruaudit.
+}
+
+::D5_Q51:: "Cloud Security" adalah tanggungjawab bersama (Shared Responsibility) antara? {
+ =Penyedia perkhidmatan awan dan pelanggan. #Tepat.
+ ~Hanya penyedia perkhidmatan awan sahaja.
+ ~Hanya pelanggan sahaja.
+ ~Pihak polis dan pihak bomba.
+}
+
+::D5_Q52:: "Audit Logs" harus dilindungi daripada pindaan untuk memastikan? {
+ =Akauntabiliti dan integriti bukti semasa penyiasatan. #Tepat.
+ ~Log nampak kemas dan tersusun.
+ ~Pekerja tidak merasa takut semasa bekerja.
+ ~Log boleh dijual kepada pihak ketiga.
+}
+
+::D5_Q53:: Apakah risiko "Privilege Escalation"? {
+ =Seorang pengguna biasa berjaya mendapatkan hak akses pentadbir (admin). #Tepat.
+ ~Seorang pekerja mendapat kenaikan gaji yang terlalu tinggi.
+ ~Seorang pengguna menukar gambar latar belakang komputer.
+ ~Seorang pekerja menggunakan lif khas pengurusan.
+}
+
+::D5_Q54:: "Steganography" adalah teknik untuk? {
+ =Menyembunyikan maklumat di dalam fail lain (seperti imej atau audio). #Tepat.
+ ~Menyulitkan data dengan algoritma yang kompleks.
+ ~Menghapuskan data secara kekal dari cakera keras.
+ ~Menghantar e-mel dengan kelajuan cahaya.
+}
+
+::D5_Q55:: "SQL Injection" menyerang? {
+ =Pangkalan data melalui input aplikasi web yang tidak ditapis dengan betul. #Tepat.
+ ~Kabel fizikal pangkalan data.
+ ~Bekalan kuasa pusat data.
+ ~Papan kekunci komputer pentadbir.
+}
+
+::D5_Q56:: "Cross-Site Scripting" (XSS) membolehkan penyerang untuk? {
+ =Memasukkan skrip berniat jahat ke dalam laman web yang dilihat oleh pengguna lain. #Tepat.
+ ~Mematikan pelayan web secara fizikal.
+ ~Mencuri perkakasan server dari rak.
+ ~Menukar warna dinding pejabat syarikat.
+}
+
+::D5_Q57:: "Biometric False Acceptance Rate" (FAR) merujuk kepada? {
+ =Kadar di mana orang yang tidak berkuasa diterima masuk oleh sistem. #Tepat.
+ ~Kadar di mana orang yang sah ditolak oleh sistem.
+ ~Kelajuan sistem memproses cap jari.
+ ~Harga peranti biometrik di pasaran.
+}
+
+::D5_Q58:: "Biometric False Rejection Rate" (FRR) merujuk kepada? {
+ =Kadar di mana orang yang sah ditolak masuk oleh sistem secara silap. #Tepat.
+ ~Kadar di mana pencuri dibenarkan masuk.
+ ~Jumlah memori yang digunakan oleh pangkalan data biometrik.
+ ~Bilangan kali pengguna perlu mencuci tangan.
+}
+
+::D5_Q59:: "Air Gap" dalam keselamatan rangkaian bermaksud? {
+ =Sistem kritikal yang tidak disambungkan secara fizikal atau logik ke mana-mana rangkaian lain. #Tepat.
+ ~Sistem yang diletakkan di dalam bilik yang mempunyai penghawa dingin yang kuat.
+ ~Sistem yang terapung di udara menggunakan magnet.
+ ~Sistem yang hanya menggunakan sambungan WiFi tanpa kabel.
+}
+
+::D5_Q60:: Apakah tujuan "Data Retention Policy"? {
+ =Menentukan berapa lama data perlu disimpan berdasarkan keperluan undang-undang dan perniagaan. #Tepat.
+ ~Memastikan tiada data yang dipadamkan sampai bila-bila.
+ ~Menghapuskan semua data setiap hujung minggu.
+ ~Menyimpan data hanya di dalam bentuk kertas.
+}
+
+::D5_Q61:: "Disposal of Sensitive Media" harus melibatkan? {
+ =Pemusnahan fizikal atau pemadaman kekal (wiping) yang menghalang pemulihan data. #Tepat.
+ ~Membuang kaset sandaran ke dalam tong sampah biasa.
+ ~Menjual pemacu keras lama di pasar karat tanpa format.
+ ~Memberi komputer lama kepada sekolah sebagai sumbangan tanpa pemeriksaan data.
+}
+
+::D5_Q62:: "Hardening" sistem aplikasi melibatkan? {
+ =Menutup perkhidmatan (services) dan port yang tidak diperlukan untuk mengurangkan permukaan serangan. #Tepat.
+ ~Menjadikan badan komputer lebih keras menggunakan besi.
+ ~Menambah bilangan kata laluan yang perlu dimasukkan.
+ ~Meningkatkan kelajuan kipas penyejuk CPU.
+}
+
+::D5_Q63:: "Security Patch" yang kritikal harus dipasang? {
+ =Secepat mungkin selepas melalui fasa pengujian yang singkat. #Tepat.
+ ~Setahun sekali semasa cuti raya.
+ ~Hanya jika sistem tersebut telah digodam.
+ ~Hanya selepas mendapat kebenaran daripada semua pelanggan.
+}
+
+::D5_Q64:: Apakah risiko "Unsecured WiFi"? {
+ =Data yang dihantar boleh dipintas dan dibaca oleh sesiapa sahaja dalam kawasan liputan. #Tepat.
+ ~WiFi akan menjadi terlalu laju sehingga komputer rosak.
+ ~Bateri telefon akan meletup jika disambungkan.
+ ~WiFi tersebut akan menarik kilat.
+}
+
+::D5_Q65:: "Remote Wipe" adalah ciri yang membolehkan? {
+ =Pemadaman data pada peranti mudah alih yang hilang secara jarak jauh. #Tepat.
+ ~Pembersihan habuk pada skrin komputer dari jauh.
+ ~Menutup lampu pejabat menggunakan telefon bimbit.
+ ~Mencuci lantai pejabat menggunakan robot.
+}
+
+::D5_Q66:: "Encryption Keys" harus dilindungi dengan rapi kerana? {
+ =Jika kunci hilang atau dicuri, data yang terenkripsi tidak lagi selamat atau tidak boleh diakses. #Tepat.
+ ~Kunci tersebut diperbuat daripada emas tulen.
+ ~Kunci tersebut sangat berat untuk dibawa.
+ ~Kunci tersebut mempunyai tarikh luput setiap hari.
+}
+
+::D5_Q67:: "Audit Trail" sangat berguna untuk? {
+ =Membina semula peristiwa yang berlaku semasa insiden keselamatan. #Tepat.
+ ~Mengetahui siapa yang paling banyak minum kopi di pejabat.
+ ~Mengira jumlah langkah juruaudit setiap hari.
+ ~Menghias laporan audit dengan grafik yang menarik.
+}
+
+::D5_Q68:: "Segregation of Duties" (SoD) dalam keselamatan maklumat memastikan? {
+ =Tiada seorang pun mempunyai kawalan penuh ke atas proses kritikal dari mula hingga akhir. #Tepat.
+ ~Semua orang bekerja di dalam bilik yang berasingan.
+ ~Pekerja tidak dibenarkan bercakap antara satu sama lain.
+ ~Hanya satu orang sahaja yang boleh melakukan semua kerja.
+}
+
+::D5_Q69:: Apakah risiko "Shadow IT" terhadap keselamatan maklumat? {
+ =Penggunaan aplikasi atau peranti tanpa kelulusan IT pusat yang mungkin tidak selamat. #Tepat.
+ ~Komputer yang digunakan mempunyai bayang-bayang yang gelap.
+ ~Kakitangan IT bekerja secara rahsia di waktu malam.
+ ~Sistem yang hanya berfungsi di dalam gelap.
+}
+
+::D5_Q70:: "Honey Token" adalah? {
+ =Data palsu (seperti rekod pangkalan data) yang diletakkan untuk mengesan akses tanpa izin. #Tepat.
+ ~Token digital yang memberikan diskaun makanan.
+ ~Mata wang kripto yang dikeluarkan oleh syarikat.
+ ~Hadiah untuk pekerja yang paling jujur.
+}
+
+::D5_Q71:: "Port Scanning" dilakukan oleh penyerang untuk? {
+ =Mengenalpasti perkhidmatan yang berjalan pada server dan mencari titik masuk. #Tepat.
+ ~Melihat pemandangan di pelabuhan laut.
+ ~Mengira jumlah lubang pada kabel rangkaian.
+ ~Menguji kelajuan pengecas telefon bimbit.
+}
+
+::D5_Q72:: "Security Policy" organisasi harus dikaji semula? {
+ =Sekurang-kurangnya setahun sekali atau apabila berlaku perubahan besar. #Tepat.
+ ~Setiap kali juruaudit baru datang.
+ ~Hanya apabila pengarah syarikat meletak jawatan.
+ ~Setiap sepuluh tahun sekali.
+}
+
+::D5_Q73:: "Access Review" secara berkala bertujuan untuk? {
+ =Memastikan akses pengguna masih relevan dengan tugas semasa mereka. #Tepat.
+ ~Menambah akses baru kepada semua orang secara rawak.
+ ~Menilai kecantikan gambar profil pengguna.
+ ~Membatalkan semua akses pada hari cuti umum.
+}
+
+::D5_Q74:: "Physical Security" pusat data harus menghalang? {
+ =Akses tanpa izin, bencana alam, dan gangguan bekalan. #Tepat.
+ ~Burung daripada terbang di atas bumbung.
+ ~Pekerja daripada memakai kasut di dalam pejabat.
+ ~Warna cat dinding daripada pudar.
+}
+
+::D5_Q75:: "Uninterruptible Power Supply" (UPS) melindungi sistem daripada? {
+ =Lonjakan kuasa (surges) dan kegagalan bekalan elektrik tiba-tiba. #Tepat.
+ ~Serangan virus dari internet.
+ ~Kecurian fizikal komputer.
+ ~Kegagalan sistem penghawa dingin.
+}
+
+::D5_Q76:: "Water Leak Detection" adalah penting kerana? {
+ =Air boleh menyebabkan litar pintas dan kerosakan kekal pada peralatan elektronik. #Tepat.
+ ~Pekerja perlu minum air yang banyak setiap hari.
+ ~Air boleh menyebabkan lantai menjadi licin.
+ ~Air boleh menukar warna server.
+}
+
+::D5_Q77:: "Fire Suppression System" di pusat data tidak harus menggunakan air secara langsung kerana? {
+ =Air boleh merosakkan litar elektronik yang tidak terbakar. #Tepat.
+ ~Air sangat mahal harganya.
+ ~Air akan menyebabkan bilik menjadi terlalu sejuk.
+ ~Air akan menarik perhatian nyamuk.
+}
+
+::D5_Q78:: "Physical Key Management" melibatkan? {
+ =Kawalan ke atas pengeluaran, pemulangan, dan penduaan kunci fizikal. #Tepat.
+ ~Mencuci kunci supaya sentiasa berkilat.
+ ~Menjual kunci lama di pasar karat.
+ ~Menggantung semua kunci di pintu supaya mudah dijumpai.
+}
+
+::D5_Q79:: "CCTV" dianggap sebagai kawalan? {
+ =Detektif (mengesan peristiwa) dan Pencegah (menakutkan penceroboh). #Tepat.
+ ~Hanya kawalan pembetulan.
+ ~Hanya kawalan pentadbiran.
+ ~Hanya hiasan dinding sahaja.
+}
+
+::D5_Q80:: "Visitor Logs" di pusat data harus mengandungi? {
+ =Nama, tujuan lawatan, masa masuk/keluar, dan nama pengiring. #Tepat.
+ ~Makanan kegemaran pelawat.
+ ~Warna baju yang dipakai pelawat.
+ ~Bilangan langkah kaki pelawat.
+}
+
+::D5_Q81:: "Data Sovereignty" merujuk kepada? {
+ =Data tertakluk kepada undang-undang negara di mana data tersebut disimpan secara fizikal. #Tepat.
+ ~Data yang dimiliki oleh keluarga diraja sahaja.
+ ~Data yang tidak boleh dipindahkan ke mana-mana.
+ ~Data yang mempunyai kuasa memerintah sistem operasi.
+}
+
+::D5_Q82:: "Multi-tenant Environment" dalam Cloud Computing menimbulkan risiko? {
+ =Data satu pelanggan mungkin diakses oleh pelanggan lain jika pengasingan lemah. #Tepat.
+ ~Penyedia awan akan mengenakan caj yang sama kepada semua orang.
+ ~Semua pelanggan perlu berkongsi satu kata laluan yang sama.
+ ~Sistem akan menjadi perlahan kerana terlalu ramai orang.
+}
+
+::D5_Q83:: "Egress Filtering" adalah? {
+ =Menapis trafik yang keluar dari rangkaian dalaman ke internet. #Tepat.
+ ~Menapis habuk pada kipas server.
+ ~Menyusun e-mel mengikut tarikh.
+ ~Menghalang pekerja daripada keluar dari bangunan pejabat.
+}
+
+::D5_Q84:: "Inbound Filtering" adalah? {
+ =Menapis trafik yang masuk dari internet ke rangkaian dalaman. #Tepat.
+ ~Menyambut pelawat di pintu utama.
+ ~Mencuci tangan sebelum masuk ke pusat data.
+ ~Menapis air minuman di pejabat.
+}
+
+::D5_Q85:: "Social Media Policy" syarikat bertujuan untuk? {
+ =Melindungi reputasi syarikat dan mencegah kebocoran maklumat sulit melalui media sosial. #Tepat.
+ ~Memastikan semua pekerja mempunyai akaun Facebook.
+ ~Menambah jumlah pengikut di Instagram syarikat.
+ ~Menentukan waktu pekerja boleh memuat naik gambar swafoto.
+}
+
+::D5_Q86:: "Bring Your Own Device" (BYOD) memerlukan? {
+ =Dasar yang jelas mengenai pemisahan data peribadi dan data syarikat. #Tepat.
+ ~Syarikat membayar semua bil telefon pekerja.
+ ~Pekerja tidak dibenarkan memasang sebarang aplikasi peribadi.
+ ~Telefon pekerja mesti berwarna sama dengan logo syarikat.
+}
+
+::D5_Q87:: "Security Baseline" adalah? {
+ =Tahap minimum kawalan keselamatan yang mesti dipatuhi oleh semua sistem. #Tepat.
+ ~Garisan fizikal di lantai pusat data.
+ ~Gaji minimum bagi pekerja keselamatan.
+ ~Tahap paling rendah di dalam bangunan pejabat.
+}
+
+::D5_Q88:: "Configuration Audit" memastikan? {
+ =Tetapan keselamatan sistem sebenar adalah selaras dengan standard yang ditetapkan. #Tepat.
+ ~Komputer disusun dengan cantik di atas meja.
+ ~Semua kabel diikat dengan kemas.
+ ~Skrin monitor mempunyai kecerahan yang betul.
+}
+
+::D5_Q89:: Apakah risiko "Session Hijacking"? {
+ =Penyerang mengambil alih sesi log masuk pengguna yang sah untuk mengakses sistem. #Tepat.
+ ~Penyerang mencuri kerusi yang sedang diduduki pengguna.
+ ~Penyerang menghentikan mesyuarat secara tiba-tiba.
+ ~Penyerang menukar waktu jam pada komputer.
+}
+
+::D5_Q90:: "Antispyware" fokus kepada mengesan? {
+ =Perisian yang mengumpul maklumat pengguna secara rahsia tanpa kebenaran. #Tepat.
+ ~E-mel iklan yang mengganggu.
+ ~Virus yang memadamkan fail.
+ ~Robot yang cuba masuk ke pejabat.
+}
+
+::D5_Q91:: "Hard Disk Encryption" adalah paling berkesan untuk melindungi data apabila? {
+ =Laptop syarikat hilang atau dicuri. #Tepat.
+ ~Laptop sedang digunakan untuk melayari internet.
+ ~Laptop disambungkan ke pencetak melalui kabel.
+ ~Laptop sedang dicas baterinya.
+ }
+
+::D5_Q92:: "Screen Lock" automatik membantu mencegah? {
+ =Akses tanpa izin apabila pengguna meninggalkan komputer mereka seketika. #Tepat.
+ ~Skrin komputer daripada terbakar (burn-in).
+ ~Penggunaan elektrik yang berlebihan.
+ ~Habuk daripada melekat pada skrin.
+}
+
+::D5_Q93:: "Security Logs" harus disemak secara? {
+ =Berkala (Harian atau Mingguan) bergantung kepada tahap kritikaliti sistem. #Tepat.
+ ~Sepuluh tahun sekali.
+ ~Hanya jika diarahkan oleh pihak polis.
+ ~Hanya jika sistem tersebut meletup.
+}
+
+::D5_Q94:: "Compliance Audit" dalam Domain 5 menilai pematuhan terhadap? {
+ =Dasar keselamatan dalaman dan standard antarabangsa (seperti ISO 27001). #Tepat.
+ ~Undang-undang jalan raya negara.
+ ~Etika berpakaian semasa majlis makan malam.
+ ~Manual penggunaan mesin basuh.
+}
+
+::D5_Q95:: "Digital Watermarking" digunakan untuk? {
+ =Melindungi hak cipta dengan memasukkan maklumat tersembunyi ke dalam fail digital. #Tepat.
+ ~Mencuci fail digital yang kotor.
+ ~Mendinginkan server menggunakan air digital.
+ ~Menambah hiasan pada gambar profil.
+}
+
+::D5_Q96:: "Network Access Control" (NAC) memastikan? {
+ =Hanya peranti yang mematuhi dasar keselamatan boleh menyertai rangkaian. #Tepat.
+ ~Semua orang di dunia boleh menggunakan WiFi syarikat.
+ ~Kabel rangkaian tidak boleh dicabut.
+ ~Pekerja tidak boleh membawa komputer balik ke rumah.
+}
+
+::D5_Q97:: "Security Breach" adalah keadaan di mana? {
+ =Kawalan keselamatan telah ditembusi dan akses tanpa izin telah berlaku. #Tepat.
+ ~Komputer telah kehabisan bateri.
+ ~Juruaudit telah tamat tempoh kerjanya.
+ ~Pekerja telah terlupa kata laluan mereka.
+}
+
+::D5_Q98:: "Identity Management" (IdM) menguruskan? {
+ =Kitaran hayat identiti digital pengguna dari pendaftaran hingga pembatalan. #Tepat.
+ ~Kad pengenalan fizikal pekerja.
+ ~Nama samaran yang digunakan di media sosial.
+ ~Gambar kenang-kenangan ahli keluarga.
+}
+
+::D5_Q99:: "Risk-Based Auditing" dalam keselamatan maklumat memberi keutamaan kepada? {
+ =Aset yang paling kritikal dan mempunyai risiko tertinggi. #Tepat.
+ ~Sistem yang paling murah untuk diaudit.
+ ~Sistem yang baru sahaja dibeli semalam.
+ ~Sistem yang paling disukai oleh pihak pengurusan.
+}
+
+::D5_Q100:: Hasil akhir yang paling penting bagi audit Domain 5 ialah? {
+ =Penilaian tahap keselamatan aset maklumat dan cadangan pengukuhan kawalan. #Tepat.
+ ~Senarai nama semua penggodam di dunia.
+ ~Satu set pelayan baru untuk syarikat.
+ ~Kenaikan pangkat untuk juruaudit.
+}

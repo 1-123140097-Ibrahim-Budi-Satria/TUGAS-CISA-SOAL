@@ -1,0 +1,701 @@
+$CATEGORY: CISA/Domain3/Full
+
+::D3_Q1:: Apakah fasa dalam SDLC yang paling kritikal untuk menentukan keperluan kawalan keselamatan? {
+ =Fasa Analisis Keperluan (Requirements Analysis) #Tepat. Kawalan yang dibina dari awal lebih kos efektif.
+ ~Fasa Reka Bentuk
+ ~Fasa Pembangunan
+ ~Fasa Pengujian
+}
+
+::D3_Q2:: Dalam pengurusan projek, "Critical Path" merujuk kepada? {
+ =Urutan aktiviti terpanjang yang menentukan tempoh minimum projek. #Tepat.
+ ~Senarai tugasan yang paling mudah disiapkan.
+ ~Aktiviti yang mempunyai kos paling tinggi.
+ ~Laluan alternatif jika projek gagal.
+}
+
+::D3_Q3:: Manakah antara berikut merupakan ciri utama metodologi Agile? {
+ =Pembangunan iteratif dengan maklum balas pengguna yang kerap. #Tepat.
+ ~Dokumentasi yang sangat tebal sebelum pembangunan bermula.
+ ~Struktur linear yang tidak membenarkan perubahan fasa.
+ ~Ketiadaan penglibatan pengguna sehingga sistem siap.
+}
+
+::D3_Q4:: Ujian yang dilakukan oleh pengguna akhir untuk memastikan sistem memenuhi keperluan perniagaan ialah? {
+ =User Acceptance Testing (UAT) #Tepat.
+ ~Unit Testing
+ ~Integration Testing
+ ~Stress Testing
+}
+
+::D3_Q5:: Apakah tujuan utama "Feasibility Study"? {
+ =Menilai sama ada projek berbaloi diteruskan dari segi teknikal, ekonomi, dan operasional. #Tepat.
+ ~Menulis kod sumber aplikasi.
+ ~Melantik ketua pasukan pembangunan.
+ ~Membeli pelayan baru.
+}
+
+::D3_Q6:: Risiko "Scope Creep" merujuk kepada? {
+ =Penambahan keperluan projek secara tidak terkawal tanpa pelarasan sumber. #Tepat.
+ ~Kegagalan perkakasan semasa pemasangan.
+ ~Pekerja berhenti kerja di tengah jalan.
+ ~Perisian menjadi lapuk sebelum dilancarkan.
+}
+
+::D3_Q7:: "Post-Implementation Review" (PIR) harus dilakukan untuk? {
+ =Menilai sama ada objektif projek tercapai dan mengenal pasti pengajaran (lessons learned). #Tepat.
+ ~Membaiki pepijat (bugs) terakhir sebelum sistem "live".
+ ~Menghukum pengaturcara yang melakukan ralat.
+ ~Mencari vendor baru untuk projek seterusnya.
+}
+
+::D3_Q8:: Strategi penukaran sistem "Parallel Changeover" melibatkan? {
+ =Menjalankan sistem lama dan sistem baru secara serentak untuk tempoh tertentu. #Tepat.
+ ~Menutup sistem lama dan memasang sistem baru serta-merta.
+ ~Memasang sistem baru di satu cawangan sahaja sebagai percubaan.
+ ~Membangunkan sistem baru tanpa menggunakan data lama.
+}
+
+::D3_Q9:: Apakah peranan utama Juruaudit IS semasa fasa reka bentuk sistem? {
+ =Mengesahkan bahawa kawalan dalaman yang mencukupi telah direkabentuk. #Tepat.
+ ~Menulis kod untuk modul keselamatan.
+ ~Memilih bahasa pengaturcaraan yang akan digunakan.
+ ~Menentukan bajet untuk pasukan pembangunan.
+}
+
+::D3_Q10:: "Regression Testing" dilakukan untuk? {
+ =Memastikan perubahan baru tidak menjejaskan fungsi sedia ada yang sedia stabil. #Tepat.
+ ~Menguji kelajuan capaian pangkalan data.
+ ~Melatih pengguna cara menggunakan sistem.
+ ~Mengesahkan dokumentasi teknikal.
+}
+
+::D3_Q11:: Metodologi "Waterfall" paling sesuai digunakan apabila? {
+ =Keperluan projek didefinisikan dengan jelas dan stabil dari awal. #Tepat.
+ ~Keperluan sering berubah-ubah.
+ ~Projek memerlukan hasil dalam masa seminggu.
+ ~Tiada dokumentasi tersedia.
+}
+
+::D3_Q12:: Apakah kegunaan "Function Point Analysis" (FPA)? {
+ =Menganggar saiz dan usaha pembangunan perisian berdasarkan fungsi yang disediakan. #Tepat.
+ ~Mengira bilangan kerosakan cakera keras.
+ ~Menilai tahap kepuasan pekerja.
+ ~Mengukur suhu bilik server.
+}
+
+::D3_Q13:: "Unit Testing" fokus kepada? {
+ =Menguji modul atau komponen program secara individu. #Tepat.
+ ~Menguji hubungan antara dua sistem berbeza.
+ ~Menguji beban pengguna yang tinggi.
+ ~Menguji pemulihan bencana.
+}
+
+::D3_Q14:: Dalam pembangunan perisian, "Object-Oriented Design" (OOD) menggalakkan? {
+ =Penggunaan semula kod (reusability). #Tepat.
+ ~Penulisan kod yang panjang dan kompleks.
+ ~Penggunaan perkakasan lama.
+ ~Penghapusan pangkalan data hubungan.
+}
+
+::D3_Q15:: Risiko utama pembangunan sistem oleh pengguna akhir (End-User Computing) ialah? {
+ =Kurangnya dokumentasi dan kawalan perubahan yang formal. #Tepat.
+ ~Kos lesen perisian yang terlalu tinggi.
+ ~Sistem berfungsi terlalu pantas.
+ ~Pengguna tidak perlu belajar cara menggunakan komputer.
+}
+
+::D3_Q16:: Apakah matlamat "Configuration Management" semasa pembangunan? {
+ =Menjejaki semua versi kod sumber, dokumen, dan perkakasan. #Tepat.
+ ~Menyusun meja di pejabat.
+ ~Mengira jumlah pekerja IT.
+ ~Membayar gaji vendor.
+}
+
+::D3_Q17:: "White-box Testing" melibatkan? {
+ =Pengujian berdasarkan pengetahuan tentang struktur dalaman dan kod program. #Tepat.
+ ~Pengujian hanya pada antara muka pengguna (UI).
+ ~Pengujian tanpa melihat kod sumber.
+ ~Pengujian oleh pelanggan luar.
+}
+
+::D3_Q18:: "Black-box Testing" merujuk kepada? {
+ =Pengujian fungsi sistem tanpa pengetahuan tentang struktur dalaman kod. #Tepat.
+ ~Pengujian yang dilakukan di bilik gelap.
+ ~Pengujian perkakasan yang rosak.
+ ~Pengujian sistem yang telah dihentikan.
+}
+
+::D3_Q19:: Apakah tujuan "Gantt Chart" dalam pengurusan projek? {
+ =Memberikan gambaran visual jadual projek dan kemajuan tugasan. #Tepat.
+ ~Menyimpan kata laluan sulit.
+ ~Mengira keuntungan syarikat.
+ ~Melukis struktur pangkalan data.
+}
+
+::D3_Q20:: "System Development Life Cycle" (SDLC) yang baik harus memasukkan? {
+ =Pemeriksaan keselamatan di setiap fasa. #Tepat.
+ ~Hanya ujian pada akhir projek.
+ ~Tiada penglibatan juruaudit.
+ ~Kod sumber yang boleh diakses oleh sesiapa sahaja.
+}
+
+::D3_Q21:: Apakah risiko "Hard-coding" data sensitif dalam program? {
+ =Data sukar diubah dan boleh dilihat oleh sesiapa yang mempunyai akses ke kod sumber. #Tepat.
+ ~Sistem akan berjalan lebih perlahan.
+ ~Memerlukan memori RAM yang sangat besar.
+ ~Monitor akan menjadi rosak.
+}
+
+::D3_Q22:: "Integration Testing" bertujuan untuk? {
+ =Memastikan modul-modul yang berbeza berfungsi bersama dengan betul. #Tepat.
+ ~Menguji hanya satu butang pada skrin.
+ ~Melihat warna tema aplikasi.
+ ~Mengira jumlah klik pengguna.
+}
+
+::D3_Q23:: Apakah fungsi "Escrow Agreement" bagi perisian pihak ketiga? {
+ =Memastikan pelanggan mendapat akses ke kod sumber jika vendor muflis. #Tepat.
+ ~Menjamin harga perisian tidak akan naik.
+ ~Memberikan lesen percuma seumur hidup.
+ ~Melindungi vendor daripada disaman pelanggan.
+}
+
+::D3_Q24:: Dalam projek IT, "Stakeholder" adalah? {
+ =Mana-mana individu atau kumpulan yang terkesan oleh hasil projek. #Tepat.
+ ~Hanya orang yang membiayai projek.
+ ~Hanya pengaturcara yang menulis kod.
+ ~Pihak polis dan bomba.
+}
+
+::D3_Q25:: "Rapid Application Development" (RAD) menekankan? {
+ =Prototaip pantas dan pembangunan berulang. #Tepat.
+ ~Dokumentasi yang sangat panjang.
+ ~Penggunaan kertas yang banyak.
+ ~Proses yang memakan masa bertahun-tahun.
+}
+
+::D3_Q26:: Apakah kegunaan "Business Case" dalam permulaan projek? {
+ =Memberikan justifikasi ekonomi dan strategik bagi projek tersebut. #Tepat.
+ ~Menjadi manual pengguna.
+ ~Menyimpan senarai nombor telefon vendor.
+ ~Mengira jumlah kopi yang diminum pasukan.
+}
+
+::D3_Q27:: "Decision Support Systems" (DSS) direka untuk? {
+ =Membantu pengurusan membuat keputusan berdasarkan analisis data. #Tepat.
+ ~Menggantikan semua pekerja manusia.
+ ~Menghantar e-mel secara rawak.
+ ~Mengawal suhu penghawa dingin.
+}
+
+::D3_Q28:: Apakah risiko utama ketiadaan "Input Validation" dalam aplikasi? {
+ =Serangan seperti SQL Injection dan integriti data yang rosak. #Tepat.
+ ~Papan kekunci tidak akan berfungsi.
+ ~Warna skrin akan berubah menjadi merah.
+ ~Internet akan menjadi terputus.
+}
+
+::D3_Q29:: "Software Quality Assurance" (SQA) harus? {
+ =Bebas daripada pasukan pembangunan untuk memastikan penilaian objektif. #Tepat.
+ ~Melapor terus kepada ketua pembangun.
+ ~Hanya dilakukan pada hari terakhir projek.
+ ~Dibuat oleh pekerja paling junior.
+}
+
+::D3_Q30:: Dalam pengauditan pembangunan sistem, juruaudit harus paling bimbang jika? {
+ =Pengaturcara mempunyai akses terus ke persekitaran produksi (production). #Tepat.
+ ~Dokumentasi menggunakan font yang kecil.
+ ~Mesyuarat projek dilakukan dua kali seminggu.
+ ~Tiada perisian permainan dipasang di komputer pejabat.
+}
+
+::D3_Q31:: "V-Model" adalah variasi SDLC yang menekankan? {
+ =Hubungan antara setiap fasa pembangunan dengan fasa pengujian yang sepadan. #Tepat.
+ ~Pembangunan hanya menggunakan bahasa visual.
+ ~Ketiadaan fasa reka bentuk.
+ ~Penggunaan server berbentuk V.
+}
+
+::D3_Q32:: Apakah itu "Benchmarking" dalam perolehan sistem? {
+ =Membandingkan prestasi sistem yang dicadangkan dengan standard yang ditetapkan. #Tepat.
+ ~Duduk di bangku taman sambil berfikir.
+ ~Mengira jumlah berat server.
+ ~Menulis nama vendor di atas kertas.
+}
+
+::D3_Q33:: "Phased Conversion" melibatkan? {
+ =Melaksanakan sistem baru secara berperingkat mengikut modul atau lokasi. #Tepat.
+ ~Menggunakan semua sistem sekaligus.
+ ~Membuang semua data lama serta-merta.
+ ~Hanya menggunakan sistem baru pada hari cuti.
+}
+
+::D3_Q34:: Apakah peranan "Project Manager"? {
+ =Merancang, melaksana, dan memantau kemajuan projek untuk mencapai objektif. #Tepat.
+ ~Menulis kod 24 jam sehari.
+ ~Memasang kabel elektrik.
+ ~Mencuci pejabat setiap pagi.
+}
+
+::D3_Q35:: "Alpha Testing" biasanya dilakukan oleh? {
+ =Pengguna dalaman atau pembangun dalam persekitaran terkawal. #Tepat.
+ ~Orang awam di internet.
+ ~Vendor pesaing.
+ ~Keluarga dan rakan pembangun.
+}
+
+::D3_Q36:: "Beta Testing" dilakukan oleh? {
+ =Sekumpulan pengguna luar yang terpilih sebelum pelancaran rasmi. #Tepat.
+ ~Pihak keselamatan bangunan.
+ ~Hanya oleh CEO syarikat.
+ ~Robot secara automatik.
+}
+
+::D3_Q37:: Apakah risiko "Direct Cutover" (Pertukaran Langsung)? {
+ =Kegagalan sistem baru boleh menyebabkan terhentinya operasi perniagaan sepenuhnya. #Tepat.
+ ~Ia mengambil masa terlalu lama untuk dilaksanakan.
+ ~Ia adalah kaedah yang paling mahal.
+ ~Data lama akan tersimpan terlalu banyak.
+}
+
+::D3_Q38:: "Component-Based Development" mengutamakan? {
+ =Pembangunan sistem menggunakan modul-modul kecil yang boleh ditukar ganti. #Tepat.
+ ~Membina satu sistem besar yang tidak boleh dipecahkan.
+ ~Hanya menggunakan komponen dari satu vendor.
+ ~Menghapuskan keperluan untuk pengujian.
+}
+
+::D3_Q39:: Apakah kegunaan "Requirement Traceability Matrix" (RTM)? {
+ =Memastikan semua keperluan perniagaan dipenuhi melalui reka bentuk dan ujian. #Tepat.
+ ~Menjejak lokasi fizikal server.
+ ~Mengira jumlah kertas yang digunakan untuk cetakan.
+ ~Menyimpan biodata semua ahli projek.
+}
+
+::D3_Q40:: Manakah antara berikut merupakan kawalan dalam fasa input? {
+ =Pemeriksaan had (Limit checks) dan pemeriksaan format. #Tepat.
+ ~Pembersihan habuk pada skrin.
+ ~Mengunci pintu bilik input.
+ ~Menukar papan kekunci setiap bulan.
+}
+
+::D3_Q41:: "Service Oriented Architecture" (SOA) menggunakan? {
+ =Perkhidmatan yang longgar terikat (loosely coupled) dan boleh digunakan semula. #Tepat.
+ ~Satu pangkalan data berpusat untuk semua perkara.
+ ~Kod yang sangat ketat dan tidak boleh diubah.
+ ~Hanya kabel gentian optik.
+}
+
+::D3_Q42:: Apakah itu "Middleware"? {
+ =Perisian yang menyambungkan dua aplikasi atau sistem yang berbeza. #Tepat.
+ ~Perisian yang terletak di tengah-tengah meja.
+ ~Pakaian seragam untuk pekerja IT.
+ ~Antivirus untuk komputer lama.
+}
+
+::D3_Q43:: "Capacity Management" semasa pembangunan memastikan? {
+ =Sistem direka untuk menampung beban kerja dan pertumbuhan masa hadapan. #Tepat.
+ ~Bilangan pekerja cukup untuk mengisi pejabat.
+ ~Bekalan air di pejabat mencukupi.
+ ~Rak fail tidak penuh.
+}
+
+::D3_Q44:: Apakah risiko utama pembangunan sistem "Agile"? {
+ =Kurangnya dokumentasi yang komprehensif untuk penyelenggaraan masa depan. #Tepat.
+ ~Projek disiapkan terlalu cepat.
+ ~Pekerja menjadi terlalu gembira.
+ ~Terlalu banyak kertas digunakan.
+}
+
+::D3_Q45:: "System Testing" menilai? {
+ =Sistem secara keseluruhan untuk memastikan ia memenuhi semua spesifikasi fungsional. #Tepat.
+ ~Hanya satu baris kod.
+ ~Kelajuan kipas server.
+ ~Kualiti dakwat pencetak.
+}
+
+::D3_Q46:: Apakah kegunaan "Project Charter"? {
+ =Memberikan kuasa rasmi kepada pengurus projek dan menentukan objektif projek. #Tepat.
+ ~Menyediakan peta perjalanan ke pejabat.
+ ~Menyimpan resit pembelian makanan.
+ ~Menjadi kad ID untuk ahli pasukan.
+}
+
+::D3_Q47:: "Program Evaluation and Review Technique" (PERT) digunakan untuk? {
+ =Menganalisis masa yang diperlukan untuk menyiapkan setiap aktiviti projek. #Tepat.
+ ~Menilai prestasi peribadi pengaturcara.
+ ~Mencari pepijat dalam perisian.
+ ~Menguruskan inventori alat tulis.
+}
+
+::D3_Q48:: "Data Migration Audit" harus memastikan? {
+ =Data yang dipindahkan ke sistem baru adalah tepat, lengkap, dan sah. #Tepat.
+ ~Data dipindahkan hanya pada waktu malam.
+ ~Warna data tidak berubah.
+ ~Data disimpan dalam fail cakera liut (floppy disk).
+}
+
+::D3_Q49:: "Operational Readiness Testing" (ORT) dilakukan untuk? {
+ =Memastikan sistem bersedia untuk operasi harian dalam persekitaran produksi. #Tepat.
+ ~Melihat sama ada pejabat mempunyai cukup kerusi.
+ ~Menguji kelajuan menaip kerani.
+ ~Mengesahkan menu di kafetaria.
+}
+
+::D3_Q50:: "Gap Analysis" dalam pemilihan perisian ERP membantu? {
+ =Mengenalpasti fungsi yang diperlukan oleh perniagaan tetapi tidak disediakan oleh perisian. #Tepat.
+ ~Mengira jarak antara dua bangunan.
+ ~Menentukan masa rehat pekerja.
+ ~Menutup lubang di lantai pusat data.
+}
+
+::D3_Q51:: Apakah risiko utama penggunaan "Prototyping"? {
+ =Pengguna mungkin menganggap prototaip sebagai sistem akhir yang lengkap. #Tepat.
+ ~Ia tidak menggunakan grafik yang cantik.
+ ~Pembangun akan lupa cara menulis kod.
+ ~Monitor akan meletup jika prototaip gagal.
+}
+
+::D3_Q52:: "Functional Requirements" menerangkan? {
+ =Apa yang sistem harus lakukan (tugas dan proses). #Tepat.
+ ~Berapa berat server yang diperlukan.
+ ~Warna dinding bilik server.
+ ~Gaji kakitangan IT.
+}
+
+::D3_Q53:: "Non-functional Requirements" merangkumi? {
+ =Prestasi, keselamatan, ketersediaan, dan kebolehskalaan. #Tepat.
+ ~Cara memasukkan data pelanggan.
+ ~Langkah-langkah mencetak laporan.
+ ~Nama syarikat yang membangunkan sistem.
+}
+
+::D3_Q54:: "Software Escrow" paling penting apabila? {
+ =Sistem yang dibeli adalah kritikal untuk perniagaan dan vendor adalah syarikat kecil. #Tepat.
+ ~Vendor adalah syarikat gergasi seperti Microsoft.
+ ~Perisian tersebut adalah percuma.
+ ~Sistem hanya digunakan untuk bermain permainan video.
+}
+
+::D3_Q55:: "Entity Relationship Diagram" (ERD) digunakan untuk? {
+ =Memodelkan struktur data dan hubungan antara elemen data. #Tepat.
+ ~Melukis gambar keluarga pekerja.
+ ~Menunjukkan aliran elektrik dalam bangunan.
+ ~Menjelaskan cara memasang tetikus.
+}
+
+::D3_Q56:: Apakah risiko "Inadequate Training" semasa pelancaran sistem? {
+ =Ralat input yang tinggi dan penolakan sistem oleh pengguna. #Tepat.
+ ~Komputer akan menjadi panas.
+ ~Bil internet akan meningkat.
+ ~Pekerja akan meminta cuti lebih banyak.
+}
+
+::D3_Q57:: "User Manual" harus disediakan untuk? {
+ =Membantu pengguna mengendalikan sistem dengan betul dan cekap. #Tepat.
+ ~Menjadi hiasan di atas meja.
+ ~Menggantikan sistem bantuan atas talian.
+ ~Menyembunyikan kelemahan sistem.
+}
+
+::D3_Q58:: "Change Request Form" digunakan untuk? {
+ =Mendokumentasikan dan meluluskan sebarang perubahan kepada skop atau sistem. #Tepat.
+ ~Memohon pertukaran tempat duduk.
+ ~Memesan makanan tengah hari.
+ ~Menyatakan rasa tidak puas hati kepada bos.
+}
+
+::D3_Q59:: "Source Code Management" (SCM) membantu mencegah? {
+ =Pertindihan perubahan kod oleh pengaturcara yang berbeza. #Tepat.
+ ~Kehilangan papan kekunci.
+ ~Kerosakan monitor.
+ ~Penggunaan elektrik berlebihan.
+}
+
+::D3_Q60:: Apakah tujuan "Stress Testing"? {
+ =Menilai prestasi sistem di bawah beban kerja yang melampau. #Tepat.
+ ~Melihat tahap kesabaran pengaturcara.
+ ~Mengetuk komputer dengan kuat.
+ ~Menjalankan sistem di dalam bilik panas.
+}
+
+::D3_Q61:: "Fourth-Generation Languages" (4GL) bertujuan untuk? {
+ =Memudahkan pembangunan aplikasi dengan bahasa yang lebih dekat dengan bahasa manusia. #Tepat.
+ ~Menghasilkan kod yang hanya difahami oleh robot.
+ ~Mengurangkan kelajuan komputer.
+ ~Hanya digunakan untuk tujuan ketenteraan.
+}
+
+::D3_Q62:: "Data Dictionary" memberikan? {
+ =Definisi standard bagi elemen data dan formatnya. #Tepat.
+ ~Terjemahan perkataan IT ke bahasa Melayu.
+ ~Senarai nama semua pekerja IT.
+ ~Lokasi kedai buku yang menjual kamus.
+}
+
+::D3_Q63:: Apakah risiko ketiadaan "Backout Plan" semasa perlaksanaan sistem? {
+ =Ketidakupayaan untuk kembali ke sistem lama jika sistem baru gagal total. #Tepat.
+ ~Pekerja tidak boleh balik ke rumah.
+ ~Data lama akan dipadamkan oleh virus.
+ ~Vendor akan meminta bayaran tambahan.
+}
+
+::D3_Q64:: "Object Request Broker" (ORB) dalam OOD berfungsi untuk? {
+ =Membolehkan objek berkomunikasi merentasi rangkaian dan platform berbeza. #Tepat.
+ ~Meminta kopi untuk pekerja IT secara automatik.
+ ~Menyusun fail dalam folder.
+ ~Mengawal kelajuan kipas komputer.
+}
+
+::D3_Q65:: "System Documentation" sangat penting untuk? {
+ =Memudahkan penyelenggaraan dan penyelesaian masalah di masa hadapan. #Tepat.
+ ~Menunjukkan berapa banyak kertas yang dimiliki syarikat.
+ ~Menjadi bukti bahawa pembangun telah bekerja.
+ ~Memenuhi ruang dalam almari fail.
+}
+
+::D3_Q66:: Apakah fungsi "Steering Committee" dalam pembangunan sistem? {
+ =Menyediakan pengawasan peringkat tinggi dan membuat keputusan strategik. #Tepat.
+ ~Menulis kod CSS.
+ ~Membaiki kabel rangkaian yang putus.
+ ~Memeriksa kehadiran pekerja setiap pagi.
+}
+
+::D3_Q67:: "Pilot Study" melibatkan? {
+ =Melaksanakan sistem di satu bahagian organisasi sebelum pelancaran penuh. #Tepat.
+ ~Membangunkan sistem untuk juruterbang kapal terbang.
+ ~Menggunakan sistem hanya pada waktu rehat.
+ ~Menjalankan ujian di dalam makmal sahaja.
+}
+
+::D3_Q68:: "Parallel Running" dianggap paling selamat kerana? {
+ =Sistem lama masih tersedia jika sistem baru mempunyai masalah kritikal. #Tepat.
+ ~Ia adalah cara paling murah.
+ ~Ia tidak memerlukan penglibatan pengguna.
+ ~Ia menggunakan kurang memori komputer.
+}
+
+::D3_Q69:: Apakah risiko utama penggunaan "Commercial Off-The-Shelf" (COTS)? {
+ =Perisian mungkin tidak memenuhi keperluan unik perniagaan tanpa pengubahsuaian besar. #Tepat.
+ ~Ia tidak mempunyai manual pengguna.
+ ~Ia hanya boleh dibeli di pasar raya.
+ ~Ia tidak sah di sisi undang-undang.
+}
+
+::D3_Q70:: "Integrated Development Environment" (IDE) membantu pengaturcara dengan? {
+ =Menyediakan alat seperti editor kod, debugger, dan compiler dalam satu aplikasi. #Tepat.
+ ~Menyediakan bilik tidur di pejabat.
+ ~Memberikan perkhidmatan pesanan makanan.
+ ~Mencari rakan sekerja di media sosial.
+}
+
+::D3_Q71:: "Verification" dalam pembangunan sistem bermaksud? {
+ =Mengesahkan bahawa produk dibina mengikut spesifikasi reka bentuk. #Tepat.
+ ~Memeriksa sama ada pengguna suka warna aplikasi.
+ ~Menghitung jumlah wang dalam akaun bank.
+ ~Memeriksa kad pengenalan pekerja.
+}
+
+::D3_Q72:: "Validation" dalam pembangunan sistem bermaksud? {
+ =Mengesahkan bahawa produk akhir memenuhi keperluan sebenar pengguna. #Tepat.
+ ~Mengesahkan tarikh lahir pengaturcara.
+ ~Memeriksa ketelusan tingkap pejabat.
+ ~Menguji kekuatan plastik server.
+}
+
+::D3_Q73:: "Software Refactoring" adalah proses? {
+ =Menstruktur semula kod sedia ada tanpa mengubah tingkah laku luaran untuk meningkatkan kualiti. #Tepat.
+ ~Menukar bahasa pengaturcaraan secara total.
+ ~Memadamkan semua kod dan bermula semula.
+ ~Menjual perisian kepada syarikat lain.
+}
+
+::D3_Q74:: Apakah kegunaan "Decision Tree" dalam analisis sistem? {
+ =Membantu memodelkan logik keputusan yang kompleks dalam proses perniagaan. #Tepat.
+ ~Menentukan jenis pokok yang perlu ditanam di pejabat.
+ ~Melukis struktur organisasi jabatan IT.
+ ~Mengira jumlah daun pada pokok di luar bangunan.
+}
+
+::D3_Q75:: "Input Controls" paling berkesan apabila diletakkan? {
+ =Seberapa dekat yang mungkin dengan punca kemasukan data. #Tepat.
+ ~Di dalam bilik server pusat.
+ ~Hanya di dalam laporan akhir.
+ ~Hanya oleh pihak pengurusan atasan.
+}
+
+::D3_Q76:: "Processing Controls" memastikan? {
+ =Data diproses secara tepat dan lengkap mengikut peraturan perniagaan. #Tepat.
+ ~Komputer tidak menjadi terlalu panas.
+ ~Pekerja tidak bercakap semasa bekerja.
+ ~Elektrik sentiasa ada di dalam bangunan.
+}
+
+::D3_Q77:: "Output Controls" bertujuan untuk? {
+ =Memastikan hasil pemprosesan adalah tepat dan hanya diagihkan kepada pihak yang berkuasa. #Tepat.
+ ~Memastikan pencetak mempunyai kertas yang mencukupi.
+ ~Mencantikkan laporan dengan grafik.
+ ~Menghantar laporan kepada semua orang di dunia.
+}
+
+::D3_Q78:: "Electronic Data Interchange" (EDI) memerlukan? {
+ =Standard format data yang dipersetujui antara rakan perniagaan. #Tepat.
+ ~Penggunaan mesin faks sahaja.
+ ~Penghantaran dokumen melalui pos laju.
+ ~Penggunaan disket untuk memindahkan data.
+}
+
+::D3_Q79:: "Application Program Interface" (API) membolehkan? {
+ =Dua aplikasi berkomunikasi dan berkongsi data secara teratur. #Tepat.
+ ~Pengguna bercakap terus dengan komputer.
+ ~Komputer membaiki dirinya sendiri.
+ ~Sistem operasi dipadamkan.
+}
+
+::D3_Q80:: Apakah risiko utama "Big Bang Migration"? {
+ =Risiko kegagalan yang tinggi kerana semua data dan sistem ditukar sekaligus. #Tepat.
+ ~Ia mengambil masa bertahun-tahun untuk dilaksanakan.
+ ~Ia memerlukan terlalu banyak kertas.
+ ~Ia menyebabkan bunyi bising di pejabat.
+}
+
+::D3_Q81:: "Software Metrics" digunakan untuk? {
+ =Mengukur aspek kualiti, kos, dan prestasi perisian. #Tepat.
+ ~Mengukur panjang kabel rangkaian.
+ ~Mengira saiz fizikal kotak perisian.
+ ~Menentukan berat laptop pekerja.
+}
+
+::D3_Q82:: "User Interface" (UI) yang baik haruslah? {
+ =Intuitif, konsisten, dan mudah digunakan oleh sasaran pengguna. #Tepat.
+ ~Mempunyai 100 butang pada satu skrin.
+ ~Menggunakan bahasa yang sangat teknikal.
+ ~Hanya menggunakan warna hitam dan putih.
+}
+
+::D3_Q83:: "Integrated Test Facility" (ITF) melibatkan? {
+ =Memasukkan transaksi ujian ke dalam sistem produksi bersama data sebenar. #Tepat.
+ ~Membina makmal ujian di luar negara.
+ ~Hanya menguji sistem pada waktu malam.
+ ~Menggunakan komputer mainan untuk pengujian.
+}
+
+::D3_Q84:: Apakah tujuan "Data Scrubbing" (Pembersihan Data)? {
+ =Mengenalpasti dan membetulkan ralat atau ketidakkonsistenan dalam data. #Tepat.
+ ~Membasuh cakera keras dengan sabun.
+ ~Memadamkan semua data lama.
+ ~Menambah data palsu ke dalam sistem.
+}
+
+::D3_Q85:: "Requirements Gathering" boleh dilakukan melalui? {
+ =Temubual, soal selidik, pemerhatian, dan bengkel JAD. #Tepat.
+ ~Hanya melalui tekaan juruaudit.
+ ~Melihat ramalan cuaca.
+ ~Membaca buku fiksyen.
+}
+
+::D3_Q86:: "Joint Application Design" (JAD) melibatkan? {
+ =Bengkel intensif antara pengguna dan pembangun untuk menentukan keperluan. #Tepat.
+ ~Pembangunan aplikasi di dalam penjara.
+ ~Penggunaan satu komputer untuk sepuluh orang.
+ ~Hanya penglibatan pihak pengurusan tanpa pengguna.
+}
+
+::D3_Q87:: "Legacy Systems" merujuk kepada? {
+ =Sistem lama yang masih digunakan tetapi sukar untuk diselenggara atau diintegrasikan. #Tepat.
+ ~Sistem yang baru sahaja dibeli semalam.
+ ~Sistem yang diberikan secara percuma.
+ ~Sistem yang hanya berfungsi di muzium.
+}
+
+::D3_Q88:: "Software Patches" dikeluarkan untuk? {
+ =Membaiki kelemahan keselamatan atau ralat yang ditemui selepas pelancaran. #Tepat.
+ ~Menukar nama perisian.
+ ~Menambah iklan ke dalam aplikasi.
+ ~Meningkatkan harga lesen perisian.
+}
+
+::D3_Q89:: "DevOps" menggabungkan? {
+ =Pembangunan perisian (Dev) dan operasi IT (Ops) untuk penghantaran yang lebih pantas. #Tepat.
+ ~Jabatan pemasaran dan jabatan kewangan.
+ ~Pekerja sambilan dan pekerja tetap.
+ ~Sistem komputer dan sistem keselamatan fizikal.
+}
+
+::D3_Q90:: Apakah risiko "Inadequate Documentation"? {
+ =Kesukaran untuk menaik taraf atau membaiki sistem oleh orang selain pembangun asal. #Tepat.
+ ~Kertas di pejabat akan menjadi terlalu banyak.
+ ~Komputer akan kehabisan ruang simpanan.
+ ~Pencetak akan rosak.
+}
+
+::D3_Q91:: "System Architecture" menerangkan? {
+ =Struktur keseluruhan sistem termasuk komponen perisian dan perkakasan. #Tepat.
+ ~Reka bentuk hiasan dalaman pejabat IT.
+ ~Cara menyusun fail dalam kabinet.
+ ~Lokasi kedai komputer paling murah.
+}
+
+::D3_Q92:: "Functional Testing" memastikan? {
+ =Sistem melakukan apa yang sepatutnya dilakukan mengikut spesifikasi. #Tepat.
+ ~Sistem nampak cantik di skrin.
+ ~Sistem boleh dimainkan di telefon bimbit.
+ ~Sistem tidak menggunakan banyak elektrik.
+}
+
+::D3_Q93:: "Load Testing" menguji? {
+ =Keupayaan sistem untuk mengendalikan jumlah transaksi yang dijangkakan. #Tepat.
+ ~Berat server apabila diangkat.
+ ~Bilangan kotak perisian yang boleh dimuatkan dalam lori.
+ ~Tahap kesabaran pengguna.
+}
+
+::D3_Q94:: "Security Testing" bertujuan untuk? {
+ =Mengenalpasti kelemahan yang boleh dieksploitasi oleh penyerang. #Tepat.
+ ~Memastikan pintu pejabat sentiasa berkunci.
+ ~Mengira jumlah pengawal keselamatan.
+ ~Menguji kelajuan pengimbas virus.
+}
+
+::D3_Q95:: "Usability Testing" mengukur? {
+ =Tahap kemudahan pengguna untuk mempelajari dan menggunakan sistem. #Tepat.
+ ~Kelajuan sistem memproses data.
+ ~Bilangan ralat dalam kod.
+ ~Ketebalan manual pengguna.
+}
+
+::D3_Q96:: "Conversion Audit" harus dilakukan? {
+ =Sebelum, semasa, dan selepas proses pemindahan data. #Tepat.
+ ~Hanya jika terdapat data yang hilang.
+ ~Hanya oleh vendor yang menjual sistem.
+ ~Selepas sistem baru dibuang.
+}
+
+::D3_Q97:: "Data Integrity Controls" termasuk? {
+ =Checksums, parity bits, dan kawalan urutan (sequence controls). #Tepat.
+ ~Nama pengguna dan kata laluan sahaja.
+ ~Penggunaan CCTV di bilik data.
+ ~Memastikan kabel tidak putus.
+}
+
+::D3_Q98:: Apakah peranan "Change Advisory Board" (CAB) dalam pembangunan? {
+ =Menilai risiko dan meluluskan perubahan sistem sebelum dilaksanakan. #Tepat.
+ ~Menulis dokumentasi teknikal.
+ ~Melatih pengguna akhir.
+ ~Mencari dana untuk projek baru.
+}
+
+::D3_Q99:: "Post-implementation Review" (PIR) biasanya dilakukan? {
+ =Beberapa bulan selepas sistem mula beroperasi (steady state). #Tepat.
+ ~Satu jam sebelum sistem dilancarkan.
+ ~Semasa fasa reka bentuk.
+ ~Selepas semua pekerja meletak jawatan.
+}
+
+::D3_Q100:: Juruaudit IS menganggap projek gagal jika? {
+ =Ia tidak memenuhi keperluan perniagaan walaupun disiapkan mengikut bajet. #Tepat.
+ ~Ia disiapkan sehari lewat daripada jadual.
+ ~Warna logo tidak mengikut citarasa juruaudit.
+ ~Ia menggunakan teknologi yang sudah berusia setahun.
+}
